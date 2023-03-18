@@ -132,6 +132,18 @@ More features will be added soon that are missing (✿◠‿◠)
 ☆ Bot Developer
 * [<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://t.me/Real_hopper_07) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/givemehope07)
 
+<html>
+   <head>
+      <title>HTML Video embed</title>
+   </head>
+   <body>
+      <p></p>
+      <br />
+      <iframe width="280" height="320" src="https://te.legra.ph/file/51d86bbe24f31d14cdebd.mp4" frameborder="0" allowfullscreen>
+      </iframe>
+   </body>
+</html>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
@@ -140,17 +152,7 @@ More features will be added soon that are missing (✿◠‿◠)
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<html>
-   <head>
-      <title>HTML Video embed</title>
-   </head>
-   <body>
-      <p></p>
-      <br />
-      <iframe width="300" height="200" src="https://te.legra.ph/file/674fb0c52f1ded72ee82a.mp4" frameborder="0" allowfullscreen>
-      </iframe>
-   </body>
-</html>
+
 
  © SarcasticBot 2023
 

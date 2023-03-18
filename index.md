@@ -141,9 +141,9 @@ More features will be added soon that are missing (✿◠‿◠)
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-© SarcasticBot 2023
 
-<h2> <img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/cat_gif.gif" width="190px"> About Me <img src = "https://github.com/Snehashish06/Snehashish06/blob/main/res/cat1.gif" width="190px"> </h1>
+
+<h2> <img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/cat_gif.gif" width="190px"> © SarcasticBot 2023 <img src = "https://github.com/Snehashish06/Snehashish06/blob/main/res/cat1.gif" width="190px"> </h1>
 
 
 

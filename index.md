@@ -113,7 +113,7 @@ More features will be added soon that are missing (✿◠‿◠)
 </dl>
 
 
-#### Contact
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Us ❄
 
 *   You can always contact us at [support chat](https://t.me/topperbothub)
 *   For any query and issue you can also contact to bot developers 

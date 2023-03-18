@@ -1,1 +1,5 @@
-theme: jekyll-theme-Cayman
+title: Sarcastic bot
+description: It is one of the most advance and powerful telegram bot
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman

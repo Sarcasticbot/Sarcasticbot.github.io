@@ -144,6 +144,8 @@ More features will be added soon that are missing (✿◠‿◠)
 
 <img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/cat_gif.gif" width="190px"> © SarcasticBot 2023 <img src = "https://github.com/Snehashish06/Snehashish06/blob/main/res/cat1.gif" width="190px">
 
+
+<!DOCTYPE html>
 <html>
    <head>
       <title>HTML Video embed</title>

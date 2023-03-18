@@ -72,19 +72,6 @@ Now the Bot is ready to use (✿◠‿◠)
 * • I can support music and video play both in group and channels
 * • I can play music and video from telegram file, youtube, spotify, resso and carbon ✨
 
-
-#### Contact
-
-*   You can always contact us at [support chat](https://t.me/topperbothub)
-*   For any query and issue you can also contact to bot developers 
-
-```Bot Owner```
-[<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://t.me/cbsewalechicha10) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/cbsewalechicha10)
-
-```Bot Developer```
-[<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://t.me/Real_hopper_07) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/givemehope07)
-
-
 ##### Donation ?
 
 Your small supports Can help us and sarcastic to work affective on telegram
@@ -118,10 +105,22 @@ More features will be added soon that are missing (✿◠‿◠)
 <dd>Python</dd>
 </dl>
 
+
+#### Contact
+
+*   You can always contact us at [support chat](https://t.me/topperbothub)
+*   For any query and issue you can also contact to bot developers 
+
+```Bot Owner
+[<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://t.me/cbsewalechicha10) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/cbsewalechicha10)
+```
+
+```Bot Developer
+[<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://t.me/Real_hopper_07) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/givemehope07)
+```
+
 ```
 Thankew for using me give some love in form of spreading me among your friends
 ```
 
-```
-The final element.
-```
+`

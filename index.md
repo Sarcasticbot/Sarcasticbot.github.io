@@ -98,7 +98,7 @@ More features will be added soon that are missing (✿◠‿◠)
 
 ### Biodata
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thehamkercat&theme=github_dark&layout=compact&exclude_repo=WilliamButcherBot,Telegram_VC_Bot,SpamProtectionRobot,GdriveSearcherBot,LunaChatBot)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbsewalechicha10&theme=github_dark&layout=compact&exclude_repo=SarcasticBot,SarcasticMusic)
 
 <dl>
 <dt>Name</dt>

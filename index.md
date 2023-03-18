@@ -2,33 +2,33 @@
 layout: default
 ---
 
+<img align="middle" src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" />
+
 Hey there i am Sarcastic 😁
 
 I am one of the most powerful, advance and beautiful telegram group managing and music bot that will serve you 24*7 ✨
 
 # About me
 
-➲ A powerful and awesome telegram group managment and music player that give you spam free and fun environment for your groups :)
-➲ Written in python and taken mongo db as database 🥀
+* ➲ A powerful and awesome telegram group managment and music player that give you spam free and fun environment for your groups :)
+* ➲ Written in python and taken mongo db as database 🥀
 
-┏•❅────────────────────❅•┓
-↠ Uptime » May be always full time
-↠ Users » 10k+
-↠ Chats » 250+ (still growing)
-┗•❅────────────────────❅•┛
+* ┏•❅────────────────────❅•┓
+* ↠ Uptime » May be always full time
+* ↠ Users » 10k+
+* ↠ Chats » 250+ (still growing)
+* ┗•❅────────────────────❅•┛
 
-➲ I can manage your group with admin power i.e mute, kick or ban.
-➲ I have an advance antiflood system.
-➲ I support almost all awaited and useful module like fedration, notes, welcome, filters and many more .... ™ 
-➲ I have an advance music player system 
+* ➲ I can manage your group with admin power i.e mute, kick or ban.
+* ➲ I have an advance antiflood system.
+* ➲ I support almost all awaited and useful module like fedration, notes, welcome, filters and many more .... ™ 
+* ➲ I have an advance music player system 
 
 ## How to use me ..?
 
-⨀ Start [Sarcastic bot](https://t.me/Sarcastic_07_bot) at telegram
-⨀ Click on the "Add me to the clan" button, choose the group you want sarcastic to serve 
-⨀ Promote bot with full right to work it with full potential
-
-<h1>The button Element</h1>
+* ⨀ Start [Sarcastic bot](https://t.me/Sarcastic_07_bot) at telegram
+* ⨀ Click on the "Add me to the clan" button, choose the group you want sarcastic to serve 
+* ⨀ Promote bot with full right to work it with full potential
 
 <button type="button" onclick="https://t.me/Sarcastic_07_bot?startgroup=true">Add Sarcastic to your group</button>
 
@@ -36,21 +36,21 @@ Now for let me work correctly, you need to make me Admin of your Group!
 
 To do that, follow this easy steps:
 
-▫️ Go to your group
-▫️ Press the Group’s name
-▫️ Press Modify
-▫️ Press on Administrator
-▫️ Press Add Administrator
-▫️ Press the Magnifying Glass
-▫️ Search @Zaid2_Robot
-▫️ Confirm
+* ▫️ Go to your group
+* ▫️ Press the Group’s name
+* ▫️ Press Modify
+* ▫️ Press on Administrator
+* ▫️ Press Add Administrator
+* ▫️ Press the Magnifying Glass
+* ▫️ Search @Zaid2_Robot
+* ▫️ Confirm
 
-Now the Bot is ready to use!
+Now the Bot is ready to use (✿◠‿◠)
 
-» If you have problem till now no worry ..!!!?
+* » If you have problem till now no worry ..!!!?
 
-⨀ Click on help and command button then select basic guide 
-⨀ Enjoy :)
+* ⨀ Click on help and command button then select basic guide 
+* ⨀ Enjoy :)
 
 
 [.](https://te.legra.ph/file/90124a5be58c0f1812203.jpg)
@@ -59,21 +59,21 @@ Now the Bot is ready to use!
 
 ★ Group managment features.....
 
-• I can restrict spammer from your group via ban, mute, kick with the check of admin right.
-• I can welcome users to your group with support all type of formatting and url buttons.
-• I have an advance antiflood system which stop spam in groups
-• I have an almost all awaited features of group managing features i.e fedration
-• I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
-• I support filters for your group to selected key word with reply of any image, video or text 
-• I check for admin right before executing any strict command of restirction
+* • I can restrict spammer from your group via ban, mute, kick with the check of admin right.
+* • I can welcome users to your group with support all type of formatting and url buttons.
+* • I have an advance antiflood system which stop spam in groups
+* • I have an almost all awaited features of group managing features i.e fedration
+* • I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
+* • I support filters for your group to selected key word with reply of any image, video or text 
+* • I check for admin right before executing any strict command of restirction
 
 ★ Sarcastic music player features...
 
-• Sarcastic also have an advance music player
-• Written from scratch, making it stable and less crashes with attractive thumbnails.
-• Loop, Seek, Shuffle, Specific Skip, Playlists etc support
-• I can support music and video play both in group and channels
-• I can play music and video from telegram file, youtube, spotify, resso and carbon ✨
+* • Sarcastic also have an advance music player
+* • Written from scratch, making it stable and less crashes with attractive thumbnails.
+* • Loop, Seek, Shuffle, Specific Skip, Playlists etc support
+* • I can support music and video play both in group and channels
+* • I can play music and video from telegram file, youtube, spotify, resso and carbon ✨
 
 
 #### Contact

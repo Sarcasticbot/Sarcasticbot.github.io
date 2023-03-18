@@ -21,7 +21,7 @@ layout: default
 * ┏•❅────────────────────❅•┓
 * ↠ Uptime » May be always full time
 * ↠ Users » 10k+
-* ↠ Chats » 250+ (still growing)
+* ↠ Chats » 280+ (still growing)
 * ┗•❅────────────────────❅•┛
 
 * ➲ I can manage your group with admin power i.e mute, kick or ban.

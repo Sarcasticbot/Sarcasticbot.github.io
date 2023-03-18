@@ -5,10 +5,8 @@ layout: default
 <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" style="border-radius: 50%"> Hello World....</h1>
 </p>
 
-
-<h1> <img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/blob/479288124a823f7e65ef8d3cd802d6dfa584a73a/assets/Untitled.gif"</h1>
-
 I am one of the most powerful, advance and beautiful telegram group managing and music bot that will serve you 24*7 ✨
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # About me
 
@@ -121,8 +119,9 @@ More features will be added soon that are missing (✿◠‿◠)
 ☆ Bot Developer
 * [<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://t.me/Real_hopper_07) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/givemehope07)
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ```
 Thankew for using me give some love in form of spreading me among your friends
 ```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 © SarcasticBot 2023

@@ -141,7 +141,7 @@ More features will be added soon that are missing (✿◠‿◠)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h10> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="60px" style="border-radius: 50%"> © SarcasticBot 2023<h10>
+<h10> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="40px" style="border-radius: 50%"> © SarcasticBot 2023<h10>
 
 
 

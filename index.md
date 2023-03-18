@@ -120,9 +120,8 @@ More features will be added soon that are missing (✿◠‿◠)
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Us ❄
 
-
-<a href="https://telegram.me/topperbothub"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
-<a href="https://telegram.me/clickhereop"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+* [<img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram">](https://t.me/clickhereop)
+* [<img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">](https://t.me/topperbothub)
 
 *   You can always contact us at [support chat](https://t.me/topperbothub)
 *   For any query and issue you can also contact to bot developers 

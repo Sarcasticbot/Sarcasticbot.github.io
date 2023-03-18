@@ -106,7 +106,7 @@ More features will be added soon that are missing (✿◠‿◠)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousX1025&theme=github_dark&layout=compact&exclude_repo=FallenRobot,AnonX)
 
-```
+
 <dl>
 <dt>Name</dt>
 <dd>Sarcastic</dd>
@@ -117,8 +117,6 @@ More features will be added soon that are missing (✿◠‿◠)
 <dt>Language</dt>
 <dd>Python</dd>
 </dl>
-```
-
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Us ❄
 

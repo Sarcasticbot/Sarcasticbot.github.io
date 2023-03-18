@@ -120,8 +120,8 @@ More features will be added soon that are missing (✿◠‿◠)
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Us ❄
 
-* [<img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram">](https://t.me/clickhereop)
-* [<img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">](https://t.me/topperbothub)
+☆ [<img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram">](https://t.me/clickhereop)
+☆ [<img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">](https://t.me/topperbothub)
 
 *   You can always contact us at [support chat](https://t.me/topperbothub)
 *   For any query and issue you can also contact to bot developers 
@@ -142,9 +142,6 @@ More features will be added soon that are missing (✿◠‿◠)
 
 
 
-<img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/cat_gif.gif" width="190px"> © SarcasticBot 2023 <img src = "https://github.com/Snehashish06/Snehashish06/blob/main/res/cat1.gif" width="190px">
-
-
 <!DOCTYPE html>
 <html>
    <head>
@@ -153,10 +150,12 @@ More features will be added soon that are missing (✿◠‿◠)
    <body>
       <p>Learn Eclipse</p>
       <br />
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/y881t8ilMyc" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://te.legra.ph/file/489009c6d6e49a158a9ce.mp4" frameborder="0" allowfullscreen>
       </iframe>
    </body>
 </html>
+
+ © SarcasticBot 2023
 
 
 

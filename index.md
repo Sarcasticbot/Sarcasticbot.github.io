@@ -7,7 +7,7 @@ layout: default
 </p> 
 
 <p align="center">
-  <img src="https://github.com/Sarcasticbot/Sarcasticbot.github.io/blob/main/assets/Untitled.gif">
+  <video src="https://te.legra.ph/file/83b138e04331abe7cdce3.mp4" controls="controls" style="max-width: 730px;">
 </p> 
 
 

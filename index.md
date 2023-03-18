@@ -6,7 +6,7 @@ layout: default
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=I+am+Sarcastic+a+telegram+bot+✨%E2%9C%8C%EF%B8%8F;Created+with+❤+by+my+developers%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4772F7width=420&lines=I+am+Sarcastic+a+telegram+bot+✨%E2%9C%8C%EF%B8%8F;Created+with+❤+by+my+developers%E2%9D%A4%EF%B8%8F">
 </p> 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -35,7 +35,7 @@ layout: default
 * ⨀ Click on the "Add me to the clan" button, choose the group you want sarcastic to serve 
 * ⨀ Promote bot with full right to work it with full potential
 
-<button type="button" onclick="https://t.me/Sarcastic_07_bot?startgroup=true">Add Sarcastic to your group</button>
+![<img src="https://te.legra.ph/file/ccccd500da8795eea9e5b.jpg"](https://t.me/Sarcastic_07_bot?startgroup=true)
 
 Now for let me work correctly, you need to make me Admin of your Group!
 
@@ -113,7 +113,7 @@ More features will be added soon that are missing (✿◠‿◠)
 <dt>Born</dt>
 <dd>2022</dd>
 <dt>Birthplace</dt>
-<dd>Telegram - Python</dd>
+<dd>Telegram</dd>
 <dt>Language</dt>
 <dd>Python</dd>
 </dl>
@@ -132,7 +132,7 @@ More features will be added soon that are missing (✿◠‿◠)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=420&lines=Thanks+friends+for+your love and support%E2%9C%8C%EF%B8%8F;Support us more by sharing us among your friends✨%E2%9D%A4%EF%B8%8F;Thankew have a nice day%E2%9C%8C%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=500&lines=Thanks for visiting us 👀%E2%9C%8C%EF%B8%8F;Show some support and share us  👻%E2%9D%A4%EF%B8%8F;Thankew have a nice day ❤✨%E2%9C%8C%EF%B8%8F">
 </p> 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

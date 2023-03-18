@@ -35,7 +35,7 @@ layout: default
 * ⨀ Click on the "Add me to the clan" button, choose the group you want sarcastic to serve 
 * ⨀ Promote bot with full right to work it with full potential
 
-![<img src="https://te.legra.ph/file/ccccd500da8795eea9e5b.jpg">](https://t.me/Sarcastic_07_bot?startgroup=true)
+[<img src="https://te.legra.ph/file/ccccd500da8795eea9e5b.jpg" width="60px">](https://t.me/cbsewalechicha10)
 
 Now for let me work correctly, you need to make me Admin of your Group!
 

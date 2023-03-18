@@ -127,3 +127,27 @@ Thankew for using me give some love in form of spreading me among your friends
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 © SarcasticBot 2023
+
+<!DOCTYPE html>
+<html lang="en">
+
+     <head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <meta name="description" content="Mukesh's Portfolio | One of the first web development projects by Mukesh.">
+          <meta itemprop="name" content="Mukesh's Portfolio">
+          <meta itemprop="description" content="Mukesh's Portfolio | One of the first web development projects by Mukesh.">
+          <meta itemprop="image" content="https://te.legra.ph/file/dd55158b01876db42d3d9.jpg">
+          <meta http-equiv="X-UA-Compatible" content="ie=edge">
+          <script src="https://kit.fontawesome.com/a81368914c.js"></script>
+          <link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Poppins:wght@100;200;300;400;500;600;700&display=swap" rel="stylesheet">
+          <link rel="stylesheet" href="src/style.css">
+          <title>Mukesh (@noob-mukesh)</title>
+          <link rel="icon" href="https://vectorified.com/images/attack-on-titan-icon-31.png" type="image/x-icon">
+          <meta content="Mukesh's Portfolio" property="og:site_name">
+          <meta property="og:type" content="website">
+          <meta content="https://noob-mukesh.github.io/" property="og:url">
+          <meta content="Mukesh" property="og:title">
+          <meta content="https://te.legra.ph/file/dd55158b01876db42d3d9.jpg" property="og:image">
+          <meta content="Mukesh's Portfolio | One of the first web development projects by Mukesh." property="og:description">
+     </head>

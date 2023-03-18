@@ -102,7 +102,7 @@ More features will be added soon that are missing (✿◠‿◠)
 
 <img align="middle" src="https://te.legra.ph/file/51ff8eec802d771c7e651.png" />
 
-## Biodata
+## <img height="40" src="https://github.com/Sarcasticbot/Sarcasticbot.github.io/blob/d73065d7b19aee7ae0e6e3c0486d3544c6736c91/assets/Untitled.gif"/>Bio Data 📃
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousX1025&theme=github_dark&layout=compact&exclude_repo=FallenRobot,AnonX)
 

@@ -1,10 +1,7 @@
 ---
 layout: default
 ---
-
-<img align="middle" src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" />
-
-Hey there i am Sarcastic 😁
+<h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="70px" style="border-radius: 50%"> Hello, It's me Sarcastic bot</h1>
 
 I am one of the most powerful, advance and beautiful telegram group managing and music bot that will serve you 24*7 ✨
 

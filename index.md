@@ -120,9 +120,9 @@ More features will be added soon that are missing (✿◠‿◠)
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Us ❄
 
-<p align="center">
+<p align="left">
 <a href="https://telegram.me/topperbothub"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
-<p align="center">
+<p align="left">
 <a href="https://telegram.me/clickhereop"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
 </p>
 

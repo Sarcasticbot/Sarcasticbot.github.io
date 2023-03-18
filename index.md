@@ -120,11 +120,9 @@ More features will be added soon that are missing (✿◠‿◠)
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Us ❄
 
-<p align="left">
+
 <a href="https://telegram.me/topperbothub"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
-<p align="left">
 <a href="https://telegram.me/clickhereop"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
-</p>
 
 *   You can always contact us at [support chat](https://t.me/topperbothub)
 *   For any query and issue you can also contact to bot developers 
@@ -143,7 +141,9 @@ More features will be added soon that are missing (✿◠‿◠)
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<video src="assets/Untitled.gif">
 © SarcasticBot 2023
+
+<h2> <img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/cat_gif.gif" width="190px"> About Me <img src = "https://github.com/Snehashish06/Snehashish06/blob/main/res/cat1.gif" width="190px"> </h1>
+
 
 

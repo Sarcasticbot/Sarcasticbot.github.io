@@ -147,7 +147,7 @@ More features will be added soon that are missing (✿◠‿◠)
    <body>
       <p></p>
       <br />
-      <iframe width="560" height="315" src="https://te.legra.ph/file/674fb0c52f1ded72ee82a.mp4" frameborder="0" allowfullscreen>
+      <iframe width="300" height="200" src="https://te.legra.ph/file/674fb0c52f1ded72ee82a.mp4" frameborder="0" allowfullscreen>
       </iframe>
    </body>
 </html>

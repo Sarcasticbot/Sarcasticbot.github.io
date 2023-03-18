@@ -81,6 +81,8 @@ Your small supports Can help us and sarcastic to work affective on telegram
 * Via Upi id > cfmer.22610001600961@icici
 * Via Qr code > [Qr code](https://t.me/Atihaasya/178)
 
+<img src="https://novatorem.visualbean.vercel.app/api/spotify">
+
 ## Status
 
 | Sarcastic | Features          | Status |

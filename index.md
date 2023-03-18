@@ -93,6 +93,7 @@ Your small supports Can help us and sarcastic to work affective on telegram
 |  4        | Working 24×7      | ✔️    |
 
 More features will be added soon that are missing (✿◠‿◠)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="middle" src="https://te.legra.ph/file/51ff8eec802d771c7e651.png" />
 

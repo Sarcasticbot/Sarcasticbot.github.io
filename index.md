@@ -5,6 +5,9 @@ layout: default
 <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" style="border-radius: 50%"> Hello World....</h1>
 </p>
 
+![Uploading Untitled.gif…]()
+
+
 I am one of the most powerful, advance and beautiful telegram group managing and music bot that will serve you 24*7 ✨
 
 # About me
@@ -41,7 +44,7 @@ To do that, follow this easy steps:
 * ▫️ Press on Administrator
 * ▫️ Press Add Administrator
 * ▫️ Press the Magnifying Glass
-* ▫️ Search @Zaid2_Robot
+* ▫️ Search @Sarcastic_07_bot
 * ▫️ Confirm
 
 ⭐ Now the Bot is ready to use (✿◠‿◠)
@@ -50,9 +53,6 @@ To do that, follow this easy steps:
 
 * ⨀ Click on help and command button then select basic guide 
 * ⨀ Enjoy :)
-
-
-[.](https://te.legra.ph/file/90124a5be58c0f1812203.jpg)
 
 ## Features ✨
 

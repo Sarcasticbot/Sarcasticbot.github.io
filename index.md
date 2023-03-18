@@ -81,22 +81,24 @@ Your small supports Can help us and sarcastic to work affective on telegram
 * Via Upi id > cfmer.22610001600961@icici
 * Via Qr code > [Qr code](https://t.me/Atihaasya/178)
 
-<img src="https://novatorem.visualbean.vercel.app/api/spotify">
+![Preview](https://itstommi.vercel.app/api?spin=true)
 
 ## Status
 
 | Sarcastic | Features          | Status |
 |:----------|:------------------|:------ |
 |  1        | Music             | ✔️    |
-|  2        | Working 24×7      | ✔️    |
-|  3        | F-sub and q       |  ×    |
-|  4        | Fed, all imp feat | ✔️    |
+|  2        | All imp feature   | ✔️    |
+|  3        | Safe & Secure     |  ✔️   |
+|  4        | Working 24×7      | ✔️    |
 
 More features will be added soon that are missing (✿◠‿◠)
 
 <img align="middle" src="https://te.legra.ph/file/51ff8eec802d771c7e651.png" />
 
 ### Biodata
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thehamkercat&theme=github_dark&layout=compact&exclude_repo=WilliamButcherBot,Telegram_VC_Bot,SpamProtectionRobot,GdriveSearcherBot,LunaChatBot)
 
 <dl>
 <dt>Name</dt>

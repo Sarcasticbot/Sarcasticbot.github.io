@@ -134,7 +134,7 @@ More features will be added soon that are missing (✿◠‿◠)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=420&lines=Thanks+friends+for+your love and support%E2%9C%8C%EF%B8%8F;Support us more by sharing us among your friends✨%E2%9D%A4%EF%B8%8F";Thankew have a nice day%E2%9C%8C%EF%B8%8F>
+  <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=420&lines=Thanks+friends+for+your love and support%E2%9C%8C%EF%B8%8F;Support us more by sharing us among your friends✨%E2%9D%A4%EF%B8%8F;Thankew have a nice day%E2%9C%8C%EF%B8%8F">
 </p> 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

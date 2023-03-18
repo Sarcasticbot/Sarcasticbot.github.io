@@ -3,9 +3,13 @@ layout: default
 ---
 
 <p align="center">
+<h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="70px" style="border-radius: 50%"> Welcome guys</h1>
+</p> 
+
+<p align="center">
   <img src="https://github.com/Sarcasticbot/Sarcasticbot.github.io/blob/main/assets/Untitled.gif">
 </p> 
-<h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="70px" style="border-radius: 50%"> Welcome guys</h1>
+
 
 I am one of the most powerful, advance and beautiful telegram group managing and music bot that will serve you 24*7 ✨
 

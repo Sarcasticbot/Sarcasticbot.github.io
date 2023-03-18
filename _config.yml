@@ -1,12 +1,11 @@
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+gem "minimal-mistakes-jekyll"
 
-gem "github-pages", group: :jekyll_plugins
+source 'https://rubygems.org'
+gem 'nokogiri'
+gem 'rack', '~> 2.2.4'
+gem 'rspec'
 
-title: [Sarcastic bot]
-description: [A powerful telegram bot]
+bundle
 
-show_downloads: [true to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+theme: minimal-mistakes-jekyll
 

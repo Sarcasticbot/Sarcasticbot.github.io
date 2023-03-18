@@ -106,6 +106,7 @@ More features will be added soon that are missing (✿◠‿◠)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousX1025&theme=github_dark&layout=compact&exclude_repo=FallenRobot,AnonX)
 
+```
 <dl>
 <dt>Name</dt>
 <dd>Sarcastic</dd>
@@ -116,6 +117,7 @@ More features will be added soon that are missing (✿◠‿◠)
 <dt>Language</dt>
 <dd>Python</dd>
 </dl>
+```
 
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Us ❄
@@ -130,9 +132,11 @@ More features will be added soon that are missing (✿◠‿◠)
 * [<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://t.me/Real_hopper_07) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/givemehope07)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-```
-Thankew for using me give some love in form of spreading me among your friends
-```
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Thanks+friends+for+your+love+and for+using+me%E2%9C%8C%EF%B8%8F;Share me among your friends+ to grow Sarcastic+more+✨%E2%9D%A4%EF%B8%8F">
+</p> 
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 © SarcasticBot 2023
 

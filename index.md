@@ -1,11 +1,7 @@
 ---
 layout: default
 ---
-
-<p align="center">
-  <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" style="border-radius: 60% Welcome guys</h1>
-</p> 
-
+<img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" style="border-radius: 60% Welcome guys</h1>
 
 I am one of the most powerful, advance and beautiful telegram group managing and music bot that will serve you 24*7 ✨
 

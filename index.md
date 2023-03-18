@@ -5,8 +5,13 @@ layout: default
 <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" style="border-radius: 50%"> Hello World....</h1>
 </p>
 
-I am one of the most powerful, advance and beautiful telegram group managing and music bot that will serve you 24*7 ✨
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=I+am+Sarcastic+a+cute+and+beautiful+telegram+bot%E2%9C%8C%EF%B8%8F;Created+with+❤+by+my+developers%E2%9D%A4%EF%B8%8F">
+</p> 
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 # About me
 

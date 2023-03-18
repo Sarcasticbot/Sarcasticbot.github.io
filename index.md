@@ -134,6 +134,7 @@ More features will be added soon that are missing (✿◠‿◠)
 
 <html>
    <head>
+     <video controls loop>
       <title>HTML Video embed</title>
    </head>
    <body>

@@ -5,9 +5,6 @@ layout: default
 <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" style="border-radius: 50%"> Hello World....</h1>
 </p>
 
-![Uploading Untitled.gif…]()
-
-
 I am one of the most powerful, advance and beautiful telegram group managing and music bot that will serve you 24*7 ✨
 
 # About me
@@ -65,6 +62,8 @@ To do that, follow this easy steps:
 * • I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
 * • I support filters for your group to selected key word with reply of any image, video or text 
 * • I check for admin right before executing any strict command of restirction
+
+<h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"></h1>
 
 ★ Sarcastic music player features...
 

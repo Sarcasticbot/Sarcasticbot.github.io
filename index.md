@@ -7,7 +7,7 @@ layout: default
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .dropbtn {
-  background-color: #04AA6D;
+  background-color: #4772F7;
   color: white;
   padding: 16px;
   font-size: 16px;
@@ -44,15 +44,12 @@ layout: default
 </head>
 <body>
 
-<h2>Hoverable Dropdown</h2>
-<p>Move the mouse over the button to open the dropdown menu.</p>
-
-<div class="dropdown">
+<div class="Sarcastic">
   <button class="dropbtn">Dropdown</button>
   <div class="dropdown-content">
-    <a href="https://sarcasticbot.github.io/#home">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
+    <a href="## Status">Status</a>
+    <a href="## Features ✨">Features</a>
+    <a href="## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Us ❄">Contact</a>
   </div>
 </div>
 

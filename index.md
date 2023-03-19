@@ -165,6 +165,7 @@ More features will be added soon that are missing (✿◠‿◠)
     <meta charset="utf-8">
     <title> Like Us</title>
     <link rel="stylesheet" href="style.css">
+    <script src=""></script>
   </head> 
   <body>
     <div class="heart-btn">
@@ -173,8 +174,14 @@ More features will be added soon that are missing (✿◠‿◠)
         <span class="Like">Like</span>
         <span class="numb">12</span>
       </div>
-    </div>
-    
+    </div>    
+    <script>
+     $(document).ready(function(){
+      $(".content").click(function(){
+      $(".content").toggleClass("heart-active")
+     });
+    });
+    </script>      
   </body>
 </html>
   

@@ -95,11 +95,7 @@ Your small supports Can help us and sarcastic to work affective on telegram
 
 <html>
 <body>
-
-<h1>The button Element</h1>
-
-<button type="button" onclick="alert('Alexa play shree krishna govind hare murali ❤😁')"><img src="https://itstommi.vercel.app/api?spin=true"></button>
- 
+<button type="button" onclick="alert('Alexa play shree krishna govind hare murali ❤😁')"><img src="https://itstommi.vercel.app/api?spin=true"></button> 
 </body>
 </html>
 

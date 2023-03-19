@@ -111,7 +111,7 @@ More features will be added soon that are missing (✿◠‿◠)
 
 <img align="middle" src="https://te.legra.ph/file/51ff8eec802d771c7e651.png" />
 
-# <img height="100" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_billu.gif"width="100"/>Bio Data 
+# <img height="100" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_billu.gif" width="100"/>Bio Data 
 
 <dl>
 <dt>Name</dt>

@@ -15,7 +15,7 @@ layout: default
 
 
 
-# About me
+# <img height="40" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/Jai shree ram bro.gif"/>About me ?
 
 * ➲ A powerful and awesome telegram group managment and music player that give you spam free and fun environment for your groups :)
 * ➲ Written in python and taken mongo db as database 🥀

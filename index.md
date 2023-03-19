@@ -6,16 +6,13 @@ layout: default
 <p align="center">
 <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" style="border-radius: 50%"> Hello World....</h1>
 </p>
-
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=4772F7width=420&lines=I+am+Sarcastic+a+telegram+bot+✨%E2%9C%8C%EF%B8%8F;Created+with+❤+by+my+developers%E2%9D%A4%EF%B8%8F">
 </p> 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-# <img height="40" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/Jai shree ram bro.gif"/>About me ?
+# <img height="60" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/Jai shree ram bro.gif"/>About me ?
 
 * ➲ A powerful and awesome telegram group managment and music player that give you spam free and fun environment for your groups :)
 * ➲ Written in python and taken mongo db as database 🥀
@@ -59,7 +56,7 @@ To do that, follow this easy steps:
 * ⨀ Click on help and command button then select basic guide 
 * ⨀ Enjoy :)
 
-## Features ✨
+# <img height="50" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker.gif"/>Features ✨
 
 ★ Group managment features.....
 

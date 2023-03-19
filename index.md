@@ -90,9 +90,11 @@ Your small supports Can help us and sarcastic to work affective on telegram
 * Via Upi id > cfmer.22610001600961@icici
 * Via Qr code > [Qr code](https://t.me/Atihaasya/178)
 
-![Preview](https://itstommi.vercel.app/api?spin=true)
+
 
 ## Status
+
+![Preview](https://itstommi.vercel.app/api?spin=true)
 
 | Sarcastic | Features          | Status |
 |:----------|:------------------|:------ |

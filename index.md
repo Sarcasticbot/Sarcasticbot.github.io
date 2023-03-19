@@ -111,7 +111,7 @@ More features will be added soon that are missing (✿◠‿◠)
 
 <img align="middle" src="https://te.legra.ph/file/51ff8eec802d771c7e651.png" />
 
-# <img height="80" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_billu.gif"/>Bio Data 
+# <img height="80" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_billu.gif" width="60"/>Bio Data 
 
 <dl>
 <dt>Name</dt>
@@ -141,7 +141,7 @@ More features will be added soon that are missing (✿◠‿◠)
 <a href="https://github.com/cbsewalechicha10/Sarcasticbot"> <img src="https://img.shields.io/github/repo-size/AnonymousX1025/FallenRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
 </p>
 
-# <img height="60" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Us ❄
+# <img height="60" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="60"/>Contact Us ❄
 
 ☆ [<img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram">](https://t.me/clickhereop)
 ☆ [<img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">](https://t.me/topperbothub)

@@ -91,7 +91,7 @@ Your small supports Can help us and sarcastic to work affective on telegram
 
 
 
-# <img height="50" src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="57px">Status
+# <img height="50" src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="60px">Status
 
 <html>
 <body>

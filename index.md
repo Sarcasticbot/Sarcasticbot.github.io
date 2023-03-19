@@ -170,6 +170,9 @@ More features will be added soon that are missing (✿◠‿◠)
 
 <h10> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="40px" style="border-radius: 50%"> © SarcasticBot 2023<h10>
   
+  <iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
+<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
+  
 
 
   

@@ -163,11 +163,7 @@ More features will be added soon that are missing (✿◠‿◠)
 <html>
  
    <head>
-      <title>Bold Text Example</title>
-   </head>
    <body>
-      <p>This is normal text.</p>
-      <p><b>This is bold text.</b></p>
      </ul>
   <div class="counter">
     <!-- hitwebcounter Code START -->

@@ -179,8 +179,9 @@ More features will be added soon that are missing (✿◠‿◠)
      $(document).ready(function(){
       $(".content").click(function(){
       $(".content").toggleClass("heart-active")
-     });
+      $(".like").toggleCLass("heart-active")
     });
+   });
     </script>      
   </body>
 </html>

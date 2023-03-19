@@ -1,9 +1,4 @@
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#About me">News</a>
-  <a href="#Contact">Contact</a>
-  <a href="#Donation">Donation</a>
-</div>
+
 
 
 
@@ -126,6 +121,16 @@ More features will be added soon that are missing (✿◠‿◠)
 <dt>Language</dt>
 <dd>Python</dd>
 </dl>
+
+<html>
+<body>
+
+<h1>The button Element</h1>
+
+<button type="button" onclick="alert('Sorry but please fuck off world 🙂🙂😂')">Click Me!</button>
+ 
+</body>
+</html>
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Us ❄
 

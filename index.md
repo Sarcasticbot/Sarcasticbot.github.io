@@ -71,7 +71,7 @@ To do that, follow this easy steps:
 * • I also have lot of fun module like couple, wish, judge, coin flip, truth and dare and many more
 
 <p align="centre">
-<h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="90px"></h1>
+<h1> <img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/songs.gif" width="90px"></h1>
 </p>
 
 ★ Sarcastic music player features...

@@ -91,7 +91,7 @@ Your small supports Can help us and sarcastic to work affective on telegram
 
 
 
-# <img height="40" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/ezgif-1-85ea87b06c.gif" width="50">Status
+# <img height="40" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/ezgif-1-85ea87b06c.gif" width="50">  Status
 
 <html>
 <body>

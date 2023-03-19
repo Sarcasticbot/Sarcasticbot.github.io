@@ -12,6 +12,10 @@
   display: flex;
   cursor: pointer;
 }
+.content.heart-active{
+  border-color: #f9b9c4;
+  background: #fd0d8;
+}
 .content .heart{
   height: 90px;
   width: 90px;
@@ -41,6 +45,9 @@
   font-family: 'Inconsolata',sans-serif;
   color: grey;
 }
+.like.heart-active{
+  color: black;
+  
 .numb-before{
   content: '69';
   font-size: 21px;

@@ -160,6 +160,24 @@ More features will be added soon that are missing (✿◠‿◠)
 <h10> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="40px" style="border-radius: 50%"> © SarcasticBot 2023<h10>
   
 
+<html>
+ 
+   <head>
+      <title>Bold Text Example</title>
+   </head>
+   <body>
+      <p>This is normal text.</p>
+      <p><b>This is bold text.</b></p>
+     </ul>
+  <div class="counter">
+    <!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=8388182&style=0001&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>   
+    </div>
+   </body>	
+</html>  
+  
+
 
 
 

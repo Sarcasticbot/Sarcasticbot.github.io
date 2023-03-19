@@ -160,31 +160,7 @@ More features will be added soon that are missing (✿◠‿◠)
 <h10> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="40px" style="border-radius: 50%"> © SarcasticBot 2023<h10>
   
 
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title> Like Us</title>
-    <link rel="stylesheet" href="style.css">
-    <script src=""></script>
-  </head> 
-  <body>
-    <div class="heart-btn">
-      <div class="content">
-        <span class="heart"></span>
-        <span class="Like">Like</span>
-        <span class="numb">12</span>
-      </div>
-    </div>    
-    <script>
-     $(document).ready(function(){
-      $(".content").click(function(){
-      $(".content").toggleClass("heart-active")
-      $(".like").toggleCLass("heart-active")
-    });
-   });
-    </script>      
-  </body>
-</html>
+
   
 
 

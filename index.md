@@ -82,7 +82,7 @@ To do that, follow this easy steps:
 * • I can support music and video play both in group and channels
 * • I can play music and video from telegram file, youtube, spotify, resso and carbon ✨
 
-# <img height="80" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (1).gif"/>Donation ⭐
+# <img height="80" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (1).gif" width="80"/>Donation ⭐
 
 Your small supports Can help us and sarcastic to work affective on telegram
 
@@ -111,7 +111,7 @@ More features will be added soon that are missing (✿◠‿◠)
 
 <img align="middle" src="https://te.legra.ph/file/51ff8eec802d771c7e651.png" />
 
-# <img height="80" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_billu.gif" width="60"/>Bio Data 
+# <img height="90" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_billu.gif"/>Bio Data 
 
 <dl>
 <dt>Name</dt>

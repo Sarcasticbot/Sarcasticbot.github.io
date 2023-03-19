@@ -112,9 +112,20 @@ More features will be added soon that are missing (✿◠‿◠)
 <img align="middle" src="https://te.legra.ph/file/51ff8eec802d771c7e651.png" />
 
 ## Bio Data 
+<p align="center">
+<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
+<a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/AnonymousX1025/FallenRobot"> <img src="https://img.shields.io/github/repo-size/cbsewalechicha10/Sarcasticbot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+</p>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousX1025&theme=github_dark&layout=compact&exclude_repo=FallenRobot,AnonX)
-
+<html>
+<body>
+<p align="center">
+<button type="button" onclick="alert('Sorry but please fuck off world 🙂🙂😂')">Source code ✨</button>
+  </p> 
+</body>
+</html>
 
 <dl>
 <dt>Name</dt>
@@ -127,13 +138,7 @@ More features will be added soon that are missing (✿◠‿◠)
 <dd>Python</dd>
 </dl>
 
-<html>
-<body>
-
-<button type="button" onclick="alert('Sorry but please fuck off world 🙂🙂😂')">Source code ✨</button>
- 
-</body>
-</html>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousX1025&theme=github_dark&layout=compact&exclude_repo=FallenRobot,AnonX)
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Us ❄
 

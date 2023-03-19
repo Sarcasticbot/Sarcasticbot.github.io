@@ -34,7 +34,7 @@ layout: default
 * ⨀ Click on the "Add me to the clan" button, choose the group you want sarcastic to serve 
 * ⨀ Promote bot with full right to work it with full potential
 
-[<img src="https://te.legra.ph/file/ccccd500da8795eea9e5b.jpg" width="600px">](https://t.me/cbsewalechicha10)
+[<img src="https://te.legra.ph/file/ccccd500da8795eea9e5b.jpg" width="600px">](https://t.me/Sarcastic_07_bot?startgroup=true)
 
 Now for let me work correctly, you need to make me Admin of your Group!
 
@@ -111,7 +111,7 @@ More features will be added soon that are missing (✿◠‿◠)
 
 <img align="middle" src="https://te.legra.ph/file/51ff8eec802d771c7e651.png" />
 
-## Bio Data 
+# <img height="60" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_billu.gif"/>Bio Data 
 
 <dl>
 <dt>Name</dt>
@@ -141,7 +141,7 @@ More features will be added soon that are missing (✿◠‿◠)
 <a href="https://github.com/cbsewalechicha10/Sarcasticbot"> <img src="https://img.shields.io/github/repo-size/AnonymousX1025/FallenRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
 </p>
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Us ❄
+# <img height="60" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Us ❄
 
 ☆ [<img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram">](https://t.me/clickhereop)
 ☆ [<img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">](https://t.me/topperbothub)

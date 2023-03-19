@@ -93,7 +93,15 @@ Your small supports Can help us and sarcastic to work affective on telegram
 
 ## Status
 
-[<button type="button" onclick="alert('Sorry but please fuck off world 🙂🙂😂')"](https://itstommi.vercel.app/api?spin=true)
+<html>
+<body>
+
+<h1>The button Element</h1>
+
+<button type="button" onclick="alert('Alexa play shree krishna govind hare murali ❤😁')"><img src="https://itstommi.vercel.app/api?spin=true"></button>
+ 
+</body>
+</html>
 
 | Sarcastic | Features          | Status |
 |:----------|:------------------|:------ |

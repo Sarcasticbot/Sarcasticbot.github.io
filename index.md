@@ -93,7 +93,7 @@ Your small supports Can help us and sarcastic to work affective on telegram
 
 ## Status
 
-![Preview](https://itstommi.vercel.app/api?spin=true)
+[<button type="button" onclick="alert('Sorry but please fuck off world 🙂🙂😂')"](https://itstommi.vercel.app/api?spin=true)
 
 | Sarcastic | Features          | Status |
 |:----------|:------------------|:------ |

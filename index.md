@@ -144,10 +144,12 @@ More features will be added soon that are missing (✿◠‿◠)
 ☆ Bot Developer
 * [<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://t.me/Real_hopper_07) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/givemehope07)
 
-<img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/Radha.gif">
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/Radha.gif">
+</p
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=500&lines=Thanks for visiting us 👀%E2%9C%8C%EF%B8%8F;Show some support and share us  👻%E2%9D%A4%EF%B8%8F;Thankew have a nice day ❤✨%E2%9C%8C%EF%B8%8F">
 </p> 

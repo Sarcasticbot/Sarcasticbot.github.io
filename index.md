@@ -166,9 +166,9 @@ More features will be added soon that are missing (✿◠‿◠)
    <body>
      </ul>
   <div class="counter">
-    <!-- hitwebcounter Code START -->
+<!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=8388182&style=0001&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>   
+<img src="https://hitwebcounter.com/counter/counter.php?page=8388212&style=0001&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>     
     </div>
    </body>	
 </html>  

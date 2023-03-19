@@ -44,7 +44,7 @@ layout: default
 </head>
 <body>
 
-<div class="Sarcastic">
+<div class="dropdown">
   <button class="dropbtn">Dropdown</button>
   <div class="dropdown-content">
     <a href="## Status">Status</a>

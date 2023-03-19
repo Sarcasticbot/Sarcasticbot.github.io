@@ -125,8 +125,6 @@ More features will be added soon that are missing (✿◠‿◠)
 <html>
 <body>
 
-<h1>The button Element</h1>
-
 <button type="button" onclick="alert('Sorry but please fuck off world 🙂🙂😂')">Source code ✨</button>
  
 </body>

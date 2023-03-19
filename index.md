@@ -28,7 +28,7 @@ layout: default
 * ➲ I support almost all awaited and useful module like fedration, notes, welcome, filters and many more .... ™ 
 * ➲ I have an advance music player system 
 
-## How to use me ..?
+# <img height="60" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (2).gif"/>How to use me...
 
 * ⨀ Start [Sarcastic bot](https://t.me/Sarcastic_07_bot) at telegram
 * ⨀ Click on the "Add me to the clan" button, choose the group you want sarcastic to serve 
@@ -82,7 +82,7 @@ To do that, follow this easy steps:
 * • I can support music and video play both in group and channels
 * • I can play music and video from telegram file, youtube, spotify, resso and carbon ✨
 
-# <img height="60" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (1).gif"/>Donation ⭐
+# <img height="80" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (1).gif"/>Donation ⭐
 
 Your small supports Can help us and sarcastic to work affective on telegram
 
@@ -91,7 +91,7 @@ Your small supports Can help us and sarcastic to work affective on telegram
 
 
 
-# <img height="60" src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="57px">Status
+# <img height="50" src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="57px">Status
 
 <html>
 <body>
@@ -111,7 +111,7 @@ More features will be added soon that are missing (✿◠‿◠)
 
 <img align="middle" src="https://te.legra.ph/file/51ff8eec802d771c7e651.png" />
 
-# <img height="60" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_billu.gif"/>Bio Data 
+# <img height="80" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_billu.gif"/>Bio Data 
 
 <dl>
 <dt>Name</dt>
@@ -170,8 +170,6 @@ More features will be added soon that are missing (✿◠‿◠)
 
 <h10> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="40px" style="border-radius: 50%"> © SarcasticBot 2023<h10>
   
-  <iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
-<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
   
 
 

@@ -66,9 +66,13 @@ To do that, follow this easy steps:
 * • I have an almost all awaited features of group managing features i.e fedration
 * • I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
 * • I support filters for your group to selected key word with reply of any image, video or text 
+* • I can create amazing logo, wallapaper, write on a paper
 * • I check for admin right before executing any strict command of restirction
+* • I also have lot of fun module like couple, wish, judge, coin flip, truth and dare and many more
 
-<h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"></h1>
+<p align="centre">
+<h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="90px"></h1>
+</p>
 
 ★ Sarcastic music player features...
 

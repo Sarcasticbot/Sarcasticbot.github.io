@@ -121,9 +121,9 @@ More features will be added soon that are missing (✿◠‿◠)
 
 <html>
 <body>
-<p align="center">
-<button type="button" onclick="alert('Sorry but please fuck off world 🙂🙂😂')">Source code ✨</button>
-  </p> 
+  <p align="left">
+<button type="button" onclick="alert('Sorry but please fuck off world 🙂🙂😂')">Source code ✨</button> 
+  </p>
 </body>
 </html>
 

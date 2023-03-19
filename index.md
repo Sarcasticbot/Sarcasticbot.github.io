@@ -144,6 +144,8 @@ More features will be added soon that are missing (✿◠‿◠)
 ☆ Bot Developer
 * [<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://t.me/Real_hopper_07) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/givemehope07)
 
+<img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/Rachna.gif">
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
@@ -155,7 +157,7 @@ More features will be added soon that are missing (✿◠‿◠)
 
 <h10> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="40px" style="border-radius: 50%"> © SarcasticBot 2023<h10>
   
-<img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/Rachna.gif">
+
 
 
 

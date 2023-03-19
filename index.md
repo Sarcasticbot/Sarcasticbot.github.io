@@ -160,15 +160,23 @@ More features will be added soon that are missing (✿◠‿◠)
 <h10> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="40px" style="border-radius: 50%"> © SarcasticBot 2023<h10>
   
 
-<html>
-   <body>
-   <div class="counter">
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=8388212&style=0001&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>     
-   </div>
-   </body>	
-</html>  
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> Like Us</title>
+    <link rel="stylesheet" href="style.css">
+  </head> 
+  <body>
+    <div class="heart-btn">
+      <div class="content">
+        <span class="heart"></span>
+        <span class="Like">Like</span>
+        <span class="numb">12</span>
+      </div>
+    </div>
+    
+  </body>
+</html>
   
 
 

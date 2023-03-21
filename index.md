@@ -28,7 +28,7 @@ layout: default
 * ➲ I support almost all awaited and useful module like fedration, notes, welcome, filters and many more .... ™ 
 * ➲ I have an advance music player system 
 
-# <img height="60" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (2).gif"/>How to use me...
+# How to use me...<img height="60" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (2).gif"/>
 
 * ⨀ Start [Sarcastic bot](https://t.me/Sarcastic_07_bot) at telegram
 * ⨀ Click on the "Add me to the clan" button, choose the group you want sarcastic to serve 
@@ -56,7 +56,7 @@ To do that, follow this easy steps:
 * ⨀ Click on help and command button then select basic guide 
 * ⨀ Enjoy :)
 
-# <img height="50" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker.gif"/>Features ✨
+# Features ✨<img height="50" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker.gif"/>
 
 ★ Group managment features.....
 
@@ -82,7 +82,7 @@ To do that, follow this easy steps:
 * • I can support music and video play both in group and channels
 * • I can play music and video from telegram file, youtube, spotify, resso and carbon ✨
 
-# <img height="100" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (1).gif" width="100"/>Donation ⭐
+# Donation ⭐<img height="100" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (1).gif" width="100"/>
 
 Your small supports Can help us and sarcastic to work affective on telegram
 
@@ -91,7 +91,7 @@ Your small supports Can help us and sarcastic to work affective on telegram
 
 
 
-# <img height="40" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/ezgif-1-85ea87b06c.gif" width="50">  Status
+#  Status<img height="40" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/ezgif-1-85ea87b06c.gif" width="50">
 
 <html>
 <body>
@@ -111,7 +111,7 @@ More features will be added soon that are missing (✿◠‿◠)
 
 <img align="middle" src="https://te.legra.ph/file/51ff8eec802d771c7e651.png" />
 
-# <img height="100" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_billu.gif" width="100"/>Bio Data 
+# Bio Data <img height="100" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_billu.gif" width="100"/>
 
 <dl>
 <dt>Name</dt>

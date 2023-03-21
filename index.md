@@ -172,6 +172,19 @@ More features will be added soon that are missing (✿◠‿◠)
 
 <img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="left" width="100px" style="border-radius: 50%"><h10>© Sarcastic bot<h10><img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="right" width="100px" style="border-radius: 50%">
 
+<html>
+<head>
+<style> 
+div {
+  width: 0px;
+  height: 0px;
+  background-color: white;
+  position: relative;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-delay: -2s;
+}
+
 body {
     margin: auto;
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
@@ -241,6 +254,18 @@ body {
         transform: translateX(1);
     }
 }
+</style>
+</head>
+<body>
+
+<p>© Sarcastic bot</p>
+
+<div></div>
+
+</body>
+</html>
+
+
 
 
   

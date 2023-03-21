@@ -7,7 +7,7 @@ layout: default
 <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" style="border-radius: 50%"> Hello World....</h1>
 </p>
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4772F7width=420&lines=I+am+Sarcastic+a+telegram+bot+✨%E2%9C%8C%EF%B8%8F;Created+with+❤+by+my+developers%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4772F7width=420&lines=I+am+Sarcastic+a+telegram+bot+✨%E2%9C%8C%EF%B8%8F;Created+with+❤+by+my+developers+⭐%E2%9D%A4%EF%B8%8F">
 </p> 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -170,13 +170,7 @@ More features will be added soon that are missing (✿◠‿◠)
 
 
 
-<img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="left" width="100px" style="border-radius: 50%">
-<html>
-  <body>
-      <p style="text-align:center;">© Sarcastic bot 2023</p>
-   </body>
-</html>
-<img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="right" width="100px" style="border-radius: 50%">
+<img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="left" width="100px" style="border-radius: 50%"><h11> © Sarcastic bot 2023<h11><img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="right" width="100px" style="border-radius: 50%">
 
 
 

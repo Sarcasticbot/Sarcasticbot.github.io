@@ -170,7 +170,9 @@ More features will be added soon that are missing (✿◠‿◠)
 
 
 
-<h10> <img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif"  width="100px" style="border-radius: 50%">© SarcasticBot 2023<h10>
+ <img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="left" width="100px" style="border-radius: 50%"> 
+ <h10 "centre"> © Sarcastic bot<h10>
+ <img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="right" width="100px" style="border-radius: 50%">
 
   
 

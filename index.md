@@ -28,7 +28,7 @@ layout: default
 * ➲ I support almost all awaited and useful module like fedration, notes, welcome, filters and many more .... ™ 
 * ➲ I have an advance music player system 
 
-# How to use me...<img height="60" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (2).gif"/>
+# How to use me...<img height="80" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (2).gif"/>
 
 * ⨀ Start [Sarcastic bot](https://t.me/Sarcastic_07_bot) at telegram
 * ⨀ Click on the "Add me to the clan" button, choose the group you want sarcastic to serve 

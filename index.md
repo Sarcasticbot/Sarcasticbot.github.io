@@ -82,7 +82,7 @@ To do that, follow this easy steps:
 * • I can support music and video play both in group and channels
 * • I can play music and video from telegram file, youtube, spotify, resso and carbon ✨
 
-# Donation ⭐<img height="100" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (1).gif" width="100"/>
+# Donation ⭐
 
 Your small supports Can help us and sarcastic to work affective on telegram
 
@@ -91,7 +91,7 @@ Your small supports Can help us and sarcastic to work affective on telegram
 
 
 
-#  Status<img height="40" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/ezgif-1-85ea87b06c.gif" width="50">
+#<img height="40" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/ezgif-1-85ea87b06c.gif" width="50">  Status
 
 <html>
 <body>
@@ -111,7 +111,7 @@ More features will be added soon that are missing (✿◠‿◠)
 
 <img align="middle" src="https://te.legra.ph/file/51ff8eec802d771c7e651.png" />
 
-# Bio Data <img height="100" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_billu.gif" width="100"/>
+# Bio Data 👩‍💻
 
 <dl>
 <dt>Name</dt>
@@ -141,7 +141,7 @@ More features will be added soon that are missing (✿◠‿◠)
 <a href="https://github.com/cbsewalechicha10/Sarcasticbot"> <img src="https://img.shields.io/github/repo-size/AnonymousX1025/FallenRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
 </p>
 
-# <img height="60" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="80"/>Contact Us ❄
+# <img height="60" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Us ❄
 
 ☆ [<img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram">](https://t.me/clickhereop)
 ☆ [<img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">](https://t.me/topperbothub)

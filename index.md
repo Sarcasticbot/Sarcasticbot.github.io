@@ -171,7 +171,12 @@ More features will be added soon that are missing (✿◠‿◠)
 
 
  <img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="left" width="100px" style="border-radius: 50%"> 
- <h10 "centre"> © Sarcastic bot<h10>
+<html>
+   <head>
+   <body>
+      <p style="text-align:center;">© Sarcastic bot</p>
+   </body>
+</html>
  <img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="right" width="100px" style="border-radius: 50%">
 
   

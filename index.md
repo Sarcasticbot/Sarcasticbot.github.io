@@ -141,7 +141,7 @@ More features will be added soon that are missing (✿◠‿◠)
 <a href="https://github.com/cbsewalechicha10/Sarcasticbot"> <img src="https://img.shields.io/github/repo-size/AnonymousX1025/FallenRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
 </p>
 
-# <img height="60" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Us ❄
+# Contact Us<img height="60" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 ☆ [<img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram">](https://t.me/clickhereop)
 ☆ [<img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">](https://t.me/topperbothub)
@@ -168,8 +168,10 @@ More features will be added soon that are missing (✿◠‿◠)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h10> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" style="border-radius: 50%"> © SarcasticBot 2023<h10>
-  
+
+
+<h10> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" style="border-radius: 50%">Created by Sarcastic owner  <h10>
+<h11>  © SarcasticBot 2023 <h11>
   
 
 

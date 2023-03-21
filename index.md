@@ -170,21 +170,9 @@ More features will be added soon that are missing (✿◠‿◠)
 
 
 
-<img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="left" width="100px" style="border-radius: 50%"><p>© Sarcastic bot</p><img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="right" width="100px" style="border-radius: 50%">
+<img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="left" width="100px" style="border-radius: 50%"><h10>© Sarcastic bot<h10><img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="right" width="100px" style="border-radius: 50%">
 
-<html>
-<body>
 
-<body>
-  <div>
-     <div class="wave"></div>
-     <div class="wave"></div>
-     <div class="wave"></div>
-  </div>
-</body>
- 
-</body>
-</html>
   
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
   

@@ -19,8 +19,8 @@ layout: default
 
 * ┏•❅────────────────────❅•┓
 * ↠ Uptime » May be always full time
-* ↠ Users » 10k+
-* ↠ Chats » 280+ (still growing)
+* ↠ Users » 12k+
+* ↠ Chats » 300+ (still growing)
 * ┗•❅────────────────────❅•┛
 
 * ➲ I can manage your group with admin power i.e mute, kick or ban.
@@ -91,7 +91,7 @@ Your small supports Can help us and sarcastic to work affective on telegram
 
 
 
-#<img height="40" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/ezgif-1-85ea87b06c.gif" width="50">  Status
+# <img height="40" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/ezgif-1-85ea87b06c.gif" width="50">  Status
 
 <html>
 <body>

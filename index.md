@@ -192,12 +192,6 @@
         <li><a href="https://github.com/cbsewalechicha10" target="_blank"><img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px"></a></li>
     </ul>
 
-    <p>☆ Bot Developer</p>
-    <ul>
-        <li><a href="https://t.me/cbsewalechicha10" target="_blank"><img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px"></a></li>
-        <li><a href="https://github.com/givemehope07" target="_blank"><img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px"></a></li>
-    </ul>
-
     <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=500&lines=Thanks for visiting us 👀%E2%9C%8C%EF%B8%8F;Show some support and share us  👻%E2%9D%A4%EF%B8%8F;Thank you, have a nice day ❤✨%E2%9C%8C%EF%B8%8F">
     </p>

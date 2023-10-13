@@ -106,6 +106,11 @@
       border-radius: 5px;
       font-size: 20px;
       cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    .source-code-button:hover {
+      background: #2C3E50;
     }
 
     .contact-links {
@@ -135,9 +140,6 @@
     <br>
     ➲ Chats: 350+ (still growing)
   </div>
-
-  <!-- Add more styling and animations to other sections as needed -->
-  <!-- ... -->
 
 </body>
 </html>

@@ -13,8 +13,8 @@ layout: default
 
 # About me <img height="60" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/Jai shree ram bro.gif"/>
 
-* ➲ A powerful and awesome telegram group managment and music player that give you spam free and fun environment for your groups :)
-* ➲ Written in python and taken mongo db as database 🥀
+* ➲ A powerful and awesome telegram group management and music player that gives you spam free and fun environment for your groups :)
+* ➲ Written in Python and taken Mongo DB as database 🥀
 
 * ┏•❅────────────────────❅•┓
 * ↠ Uptime » May be always full time
@@ -35,9 +35,9 @@ layout: default
 
 [<img src="https://te.legra.ph/file/ccccd500da8795eea9e5b.jpg" width="600px">](https://t.me/Sarcastic_07_bot?startgroup=true)
 
-Now for let me work correctly, you need to make me Admin of your Group!
+Now to let me work correctly, you need to make me Admin of your Group!
 
-To do that, follow this easy steps:
+To do that, follow these easy steps:
 
 * ▫️ Go to your group
 * ▫️ Press the Group’s name
@@ -50,24 +50,24 @@ To do that, follow this easy steps:
 
 ⭐ Now the Bot is ready to use (✿◠‿◠)
 
-* » If you have problem till now no worry ..!!!?
+* » If you have a problem till now no worry ..!!!?
 
 * ⨀ Click on help and command button then select basic guide 
 * ⨀ Enjoy :)
 
 # Features <img height="50" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker.gif"/>
 
-★ Group managment features.....
+★ Group management features.....
 
-* • I can restrict spammer from your group via ban, mute, kick with the check of admin right.
-* • I can welcome users to your group with support all type of formatting and url buttons.
-* • I have an advance antiflood system which stop spam in groups
-* • I have an almost all awaited features of group managing features i.e fedration
-* • I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
-* • I support filters for your group to selected key word with reply of any image, video or text 
-* • I can create amazing logo, wallapaper, write on a paper
-* • I check for admin right before executing any strict command of restirction
-* • I also have lot of fun module like couple, wish, judge, coin flip, truth and dare and many more
+* • I can restrict spammer from your group via ban, mute, and kick with the check of admin right.
+* • I can welcome users to your group with support for all types of formatting and url buttons.
+* • I have an advanced antiflood system which stops spam in groups
+* • I have almost all awaited features of group managing features i.e federation
+* • I have a note-keeping system, blacklists, and even predetermined replies on certain keywords.
+* • I support filters for your group to select keywords with the reply to any image, video, or text 
+* • I can create amazing logos, wallpaper, and write on paper
+* • I check for admin right before executing any strict command of restriction
+* • I also have a lot of fun modules like couple, wish, judge, coin flip, truth and dare, and many more
 
 <p align="centre">
 <h1> <img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/songs.gif" width="90px"></h1>
@@ -77,15 +77,13 @@ To do that, follow this easy steps:
 
 * • Sarcastic also have an advance music player
 * • Written from scratch, making it stable and less crashes with attractive thumbnails.
-* • Loop, Seek, Shuffle, Specific Skip, Playlists etc support
-* • I can support music and video play both in group and channels
-* • I can play music and video from telegram file, youtube, spotify, resso and carbon ✨
+* • I can play music and video on your groups✨
 
 # Donation ⭐
 
 Your small supports Can help us and sarcastic to work affective on telegram
 
-* Via Upi id > cfmer.22610001600961@icici
+* Via Upi id > verma.vishesh@paytm
 * Via Qr code > [Qr code](https://t.me/Atihaasya/178)
 
 
@@ -94,7 +92,7 @@ Your small supports Can help us and sarcastic to work affective on telegram
 
 <html>
 <body>
-<button type="button" onclick="alert('Alexa play shree krishna govind hare murali ❤😁')"><img src="https://itstommi.vercel.app/api?spin=true"></button> 
+<button type="button" onclick="alert('Alexa play shree krishna govind hare murali ❤😁')"><img src="https://te.legra.ph/file/18000ae314c8ffbc305ed.png"></button> 
 </body>
 </html>
 
@@ -116,7 +114,7 @@ More features will be added soon that are missing (✿◠‿◠)
 <dt>Name</dt>
 <dd>Sarcastic</dd>
 <dt>Born</dt>
-<dd>2022</dd>
+<dd>September 2022</dd>
 <dt>Birthplace</dt>
 <dd>Telegram</dd>
 <dt>Language</dt>
@@ -142,7 +140,8 @@ More features will be added soon that are missing (✿◠‿◠)
 
 # Contact Us<img height="60" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-☆ [<img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram">](https://t.me/clickhereop)
+☆ [<img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram">](https://t.me/Sarcasticbott)
+
 ☆ [<img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">](https://t.me/topperbothub)
 
 *   You can always contact us at [support chat](https://t.me/topperbothub)
@@ -152,7 +151,7 @@ More features will be added soon that are missing (✿◠‿◠)
 * [<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://t.me/cbsewalechicha10) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/cbsewalechicha10)
 
 ☆ Bot Developer
-* [<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://t.me/Real_hopper_07) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/givemehope07)
+* [<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://t.me/cbsewalechicha10) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/givemehope07)
 
 
 
@@ -173,7 +172,7 @@ More features will be added soon that are missing (✿◠‿◠)
 
 
 
-<img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="left" width="100px" style="border-radius: 50%"><h11> © Sarcastic bot 2023<h11><img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="right" width="100px" style="border-radius: 50%">
+<img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="left" width="100px" style="border-radius: 50%"><h11> © Sarcastic bot 2023-24<h11><img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="right" width="100px" style="border-radius: 50%">
 
 
 

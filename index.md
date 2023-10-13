@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -30,26 +29,11 @@
     <ul>
         <li>➲ A powerful and awesome telegram group management and music player that gives you a spam-free and fun environment for your groups :)</li>
         <li>➲ Written in Python and using MongoDB as a database 🥀</li>
+        <li>➲ I have an advanced music player system.</li>
+        <li>➲ I can manage your group with admin power i.e., mute, kick, or ban.</li>
+        <li>➲ I have an advanced antiflood system.</li>
+        <li>➲ I support almost all awaited and useful modules like federation, notes, welcome, filters, and many more.... ™</li>
     </ul>
-
-    <div>
-        <h2>Uptime » May be always full time</h2>
-        <h2>Users » 13k+</h2>
-        <h2>Chats » 350+ (still growing)</h2>
-    </div>
-
-    <p>
-        ➲ I can manage your group with admin power i.e., mute, kick, or ban.
-    </p>
-    <p>
-        ➲ I have an advanced antiflood system.
-    </p>
-    <p>
-        ➲ I support almost all awaited and useful modules like federation, notes, welcome, filters, and many more.... ™
-    </p>
-    <p>
-        ➲ I have an advanced music player system
-    </p>
 
     <h2>How to use me...<img height="80" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (2).gif"/></h2>
 
@@ -227,6 +211,3 @@
             x[0].remove();
         }, 10);
     </script>
-</body>
-
-</html>

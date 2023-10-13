@@ -13,7 +13,7 @@
 
 <body>
     <p align="center">
-        <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" style="border-radius: 50%" class="profile-pic"> Hello World....</h1>
+        <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" style="border-radius: 50%" class="profile-pic"> Hello cuties :)</h1>
     </p>
 
     <p align="left">
@@ -26,11 +26,14 @@
     <h1>About me <img height="60" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/Jai shree ram bro.gif"/></h1>
 
     <ul>
-        <li>➲ A powerful and awesome telegram group management and music player that gives you a spam-free and fun environment for your groups :)</li>
-        <li>➲ Written in Python and using MongoDB as a database 🥀</li>
+        <li>➲ I am sarcastic one of the most complete telegram group management and music that provide you with a spam-free and non-stop experience :)</li>
+        <li>➲ Written in Python and using MongoDB and SQL as a database 🥀</li>
         <li>➲ I have an advanced music player system.</li>
         <li>➲ I can manage your group with admin power i.e., mute, kick, or ban.</li>
         <li>➲ I have an advanced antiflood system.</li>
+        <li>➲ I have ai feautre also.</li>
+        <li>➲ I have a quote features of bot also.</li>
+        <li>➲ I have a downloader that has the capacity to download content from YOutbe, Pinterest and Instagram.</li>
         <li>➲ I support almost all awaited and useful modules like federation, notes, welcome, filters, and many more.... ™</li>
     </ul>
 
@@ -38,7 +41,7 @@
 
     <ol>
         <li>⨀ Start <a href="https://t.me/Sarcastic_07_bot" target="_blank">Sarcastic bot</a> on Telegram</li>
-        <li>⨀ Click on the "Add me to the clan" button, choose the group you want Sarcastic to serve</li>
+        <li>⨀ Click on the "Add me to the clan" button, and choose the group you want Sarcastic to serve</li>
         <li>⨀ Promote the bot with full rights to work with its full potential</li>
     </ol>
 
@@ -65,7 +68,7 @@
 
     <ul>
         <li>» If you have a problem till now, no worry ..!!!?</li>
-        <li>⨀ Click on help and command button, then select the basic guide</li>
+        <li>⨀ Click on the help and command button, then select the basic guide</li>
         <li>⨀ Enjoy :)</li>
     </ul>
 
@@ -77,12 +80,16 @@
         <li>• I can restrict spammers from your group via ban, mute, and kick with the check of admin rights.</li>
         <li>• I can welcome users to your group with support for all types of formatting and URL buttons.</li>
         <li>• I have an advanced antiflood system that stops spam in groups</li>
+        <li>• I have an advance downloader that supports insta pinterest and youtube.</li>
+        <li>• I have chat gpt image and text prompt also.</li>
+        <li>• I have quolty feature also inside me,</li>
         <li>• I have almost all awaited features of group managing features i.e., federation</li>
         <li>• I have a note-keeping system, blacklists, and even predetermined replies on certain keywords.</li>
         <li>• I support filters for your group to select keywords with the reply to any image, video, or text</li>
         <li>• I can create amazing logos, wallpaper, and write on paper</li>
+        <li>• I have an advance media-supported afk module.</li>
         <li>• I check for admin rights before executing any strict command of restriction</li>
-        <li>• I also have a lot of fun modules like couple, wish, judge, coin flip, truth and dare, and many more</li>
+        <li>• I also have a lot of fun modules like the couple, wish, judge, coin flip, truth and dare, and many more</li>
     </ul>
 
     <p align="centre">

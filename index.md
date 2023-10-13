@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <p align="center">
 <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" style="border-radius: 50%"> Hello World....</h1>
 </p>

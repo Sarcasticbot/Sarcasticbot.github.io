@@ -211,3 +211,29 @@
             x[0].remove();
         }, 10);
     </script>
+
+    <p>© Sarcastic bot 2023-24</p>
+
+    <p>Visitors: <span id="visitorCount">0</span></p>
+
+    <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
+    <script>
+        var x = document.getElementsByClassName("site-footer-credits");
+        setTimeout(() => {
+            x[0].remove();
+        }, 10);
+
+        // Visitor count functionality
+        var visitorCount = localStorage.getItem("visitorCount");
+        if (visitorCount) {
+            visitorCount = parseInt(visitorCount);
+        } else {
+            visitorCount = 0;
+        }
+        visitorCount++;
+        localStorage.setItem("visitorCount", visitorCount);
+        document.getElementById("visitorCount").textContent = visitorCount;
+    </script>
+</body>
+</html>
+    

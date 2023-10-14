@@ -269,3 +269,30 @@
         document.getElementById("visitorCount").textContent = visitorCount;
     </script>
     <h11> © Sarcastic bot 2023-24<h11>
+
+
+    
+    <!-- QR Code Dropdown Section -->
+    <div id="qrCodeSection" style="display: none;">
+        <img src="your-qr-code-image-url.png" alt="QR Code" width="200">
+        <button id="hideQRCode" onclick="hideQRCode()">↑ Hide QR Code</button>
+    </div>
+
+    <p>
+        To display the QR code, click on the QR code below:
+        <img src="your-qr-code-image-url.png" alt="QR Code" width="100" onclick="showQRCode()">
+    </p>
+
+    <!-- JavaScript to toggle QR code display -->
+    <script>
+        function showQRCode() {
+            var qrCodeSection = document.getElementById("qrCodeSection");
+            qrCodeSection.style.display = "block";
+        }
+
+        function hideQRCode() {
+            var qrCodeSection = document.getElementById("qrCodeSection");
+            qrCodeSection.style.display = "none";
+        }
+    </script>
+

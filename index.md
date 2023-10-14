@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
     <style>
@@ -6,14 +7,49 @@
             100% { transform: rotate(360deg); }
         }
         .profile-pic {
-            animation: spin 5s linear infinite; /* Increase the duration for a slower spin */
+            animation: spin 5s linear infinite;
+            border: 4px solid pink;
+            border-radius: 50%;
+        }
+
+        body {
+            background-color: #ffdbcf;
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+        }
+
+        h1, h2, h3 {
+            color: #ff0066;
+            text-align: center;
+        }
+
+        p {
+            color: #333;
+        }
+
+        ul, ol {
+            list-style: none;
+        }
+
+        li::before {
+            content: '❤';
+            padding-right: 8px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 2px solid #ff0066;
+            padding: 10px;
         }
     </style>
 </head>
 
 <body>
     <p align="center">
-        <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" style="border-radius: 50%" class="profile-pic"> Hello cuties :)</h1>
+        <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" style="border-radius: 50%" class="profile-pic"> Hello cuties! ❤️</h1>
     </p>
 
     <p align="left">
@@ -26,23 +62,22 @@
     <h1>About me <img height="60" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/Jai shree ram bro.gif"/></h1>
 
     <ul>
-        <li>➲ I am sarcastic one of the most complete telegram group management and music that provide you with a spam-free and non-stop experience :)</li>
-        <li>➲ Written in Python and using MongoDB and SQL as a database 🥀</li>
-        <li>➲ I have an advanced music player system.</li>
-        <li>➲ I can manage your group with admin power i.e., mute, kick, or ban.</li>
-        <li>➲ I have an advanced antiflood system.</li>
-        <li>➲ I have ai feautre also.</li>
-        <li>➲ I have a quote features of bot also.</li>
-        <li>➲ I have a downloader that has the capacity to download content from YOutbe, Pinterest and Instagram.</li>
-        <li>➲ I support almost all awaited and useful modules like federation, notes, welcome, filters, and many more.... ™</li>
+        <li>➲ I am Sarcastic, your friendly telegram bot providing you with a spam-free and fun experience! 😊</li>
+        <li>➲ Crafted with love in Python and powered by MongoDB and SQL 🌼</li>
+        <li>➲ I have an advanced music player system. 🎵</li>
+        <li>➲ I can help manage your group with admin powers, like muting, kicking, and banning. 🛡️</li>
+        <li>➲ My anti-flood system keeps your group safe. 🌊</li>
+        <li>➲ I have AI features to make conversations interesting. 🤖</li>
+        <li>➲ I can share quotes and download content from YouTube, Pinterest, and Instagram. 📥</li>
+        <li>➲ I support various modules like federation, notes, welcome, filters, and more. ™</li>
     </ul>
 
     <h2>How to use me...<img height="80" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (2).gif"/></h2>
 
     <ol>
         <li>⨀ Start <a href="https://t.me/Sarcastic_07_bot" target="_blank">Sarcastic bot</a> on Telegram</li>
-        <li>⨀ Click on the "Add me to the clan" button, and choose the group you want Sarcastic to serve</li>
-        <li>⨀ Promote the bot with full rights to work with its full potential</li>
+        <li>⨀ Click on the "Add me to the clan" button and choose the group you want me to serve</li>
+        <li>⨀ Promote me with full rights to unlock my full potential</li>
     </ol>
 
     <a href="https://t.me/Sarcastic_07_bot?startgroup=true">
@@ -50,26 +85,26 @@
     </a>
 
     <p>
-        Now to let me work correctly, you need to make me Admin of your Group!
+        To make me work correctly, you need to make me an admin of your group! 💼
     </p>
 
     <ol>
         <li>▫️ Go to your group</li>
-        <li>▫️ Press the Group’s name</li>
+        <li>▫️ Press the Group's name</li>
         <li>▫️ Press Modify</li>
         <li>▫️ Press on Administrator</li>
         <li>▫️ Press Add Administrator</li>
         <li>▫️ Press the Magnifying Glass</li>
-        <li>▫️ Search @Sarcastic_07_bot</li>
+        <li>▫️ Search for @Sarcastic_07_bot</li>
         <li>▫️ Confirm</li>
     </ol>
 
-    <p>⭐ Now the Bot is ready to use (✿◠‿◠)</p>
+    <p>⭐ Now, I'm ready to make your group more fun! (✿◠‿◠)</p>
 
     <ul>
-        <li>» If you have a problem till now, no worry ..!!!?</li>
+        <li>» If you encounter any issues, don't worry! 😅</li>
         <li>⨀ Click on the help and command button, then select the basic guide</li>
-        <li>⨀ Enjoy :)</li>
+        <li>⨀ Enjoy! 😄</li>
     </ul>
 
     <h2>Features <img height="50" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker.gif"/></h2>
@@ -77,19 +112,15 @@
     <h3>Group management features...</h3>
 
     <ul>
-        <li>• I can restrict spammers from your group via ban, mute, and kick with the check of admin rights.</li>
-        <li>• I can welcome users to your group with support for all types of formatting and URL buttons.</li>
-        <li>• I have an advanced antiflood system that stops spam in groups</li>
-        <li>• I have an advance downloader that supports insta pinterest and youtube.</li>
-        <li>• I have chat gpt image and text prompt also.</li>
-        <li>• I have quolty feature also inside me,</li>
-        <li>• I have almost all awaited features of group managing features i.e., federation</li>
-        <li>• I have a note-keeping system, blacklists, and even predetermined replies on certain keywords.</li>
-        <li>• I support filters for your group to select keywords with the reply to any image, video, or text</li>
-        <li>• I can create amazing logos, wallpaper, and write on paper</li>
-        <li>• I have an advance media-supported afk module.</li>
-        <li>• I check for admin rights before executing any strict command of restriction</li>
-        <li>• I also have a lot of fun modules like the couple, wish, judge, coin flip, truth and dare, and many more</li>
+        <li>• I can keep spammers away from your group with ban, mute, and kick features.</li>
+        <li>• I give a warm welcome to new users with style. 👋</li>
+        <li>• My advanced anti-flood system stops spam in its tracks. 🚫</li>
+        <li>• I can download content from Instagram, Pinterest, and YouTube. 📥</li>
+        <li>• I'm equipped with chat GPT for text and image prompts. 💬</li>
+        <li>• I can create high-quality images, logos, and even write on paper. 🎨</li>
+        <li>• I have a feature-rich AFK module. 🛏️</li>
+        <li>• I check for admin rights before executing any command. 🔒</li>
+        <li>• I offer fun modules like games, truth and dare, and more! 🎲</li>
     </ul>
 
     <p align="centre">
@@ -99,18 +130,18 @@
     <h3>Sarcastic music player features...</h3>
 
     <ul>
-        <li>• Sarcastic also has an advanced music player</li>
-        <li>• Written from scratch, making it stable and less prone to crashes with attractive thumbnails.</li>
-        <li>• I can play music and video on your groups✨</li>
+        <li>• Sarcastic also has an advanced music player. 🎶</li>
+        <li>• It's stable and less prone to crashes with attractive thumbnails. 📸</li>
+        <li>• I can play music and videos in your groups! ✨</li>
     </ul>
 
     <h2>Donation ⭐</h2>
 
-    <p>Your small support can help us and Sarcastic to work effectively on Telegram</p>
+    <p>Your support can help us and Sarcastic work effectively on Telegram. 🙏</p>
 
     <ul>
         <li>Via UPI id > verma.vishesh@paytm</li>
-        <li>Via QR code > <a href="https://t.me/Atihaasya/178" target="_blank">Qr code</a></li>
+        <li>Via QR code > <a href="https://t.me/Atihaasya/178" target="_blank">QR code</a></li>
     </ul>
 
     <h2><img height="40" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/ezgif-1-85ea87b06c.gif" width="50">  Status</h2>
@@ -143,7 +174,7 @@
         </tr>
     </table>
 
-    <p>More features will be added soon that are missing (✿◠‿◠)</p>
+    <p>More features will be added soon! (✿◠‿◠)</p>
 
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -163,7 +194,7 @@
     </dl>
 
     <p align="left">
-        <button type="button" onclick="alert('Sorry, but please get lost 🙂🙂😂')">Source code ✨</button>
+        <button type="button" onclick="alert('Sorry, but please get lost! 😂')">Source code ✨</button>
     </p>
 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousX1025&theme=github_dark&layout=compact&exclude_repo=FallenRobot,AnonX">
@@ -218,7 +249,7 @@
             x[0].remove();
         }, 10);
     </script>
-    <p>⭐ Visitors : <span id="visitorCount">0</span></p>
+    <p>⭐ Visitors: <span id="visitorCount">0</span></p>
 
     <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
     <script>
@@ -239,4 +270,5 @@
         document.getElementById("visitorCount").textContent = visitorCount;
     </script>
     <h11> © Sarcastic bot 2023-24<h11>
-    
+</body>
+</html>

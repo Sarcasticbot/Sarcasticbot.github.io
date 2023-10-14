@@ -201,9 +201,6 @@
     <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=500&lines=Thanks for visiting us 👀%E2%9C%8C%EF%B8%8F;Show some support and share us  👻%E2%9D%A4%EF%B8%8F;Thank you, have a nice day ❤✨%E2%9C%8C%EF%B8%8F">
     </p>
-
-    <img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="left" width="100px" style="border-radius: 50%"><h11> © Sarcastic bot 2023-24<h11><img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="right" width="100px" style="border-radius: 50%">
-
     <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
     <script>
         var x = document.getElementsByClassName("site-footer-credits");
@@ -211,7 +208,7 @@
             x[0].remove();
         }, 10);
     </script>
-    <p>Visitors: <span id="visitorCount">0</span></p>
+    <p>⭐ Visitors : <span id="visitorCount">0</span></p>
 
     <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
     <script>
@@ -231,4 +228,9 @@
         localStorage.setItem("visitorCount", visitorCount);
         document.getElementById("visitorCount").textContent = visitorCount;
     </script>
+
+    <img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="left" width="100px" 
+    style="border-radius: 50%"><h11> © Sarcastic bot 2023-24<h11><img 
+    src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="right" width="100px" 
+    style="border-radius: 50%">
     

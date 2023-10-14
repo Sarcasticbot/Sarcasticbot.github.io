@@ -140,8 +140,30 @@
 
     <ul>
         <li>Via UPI id > verma.vishesh@paytm</li>
-        <li>Via QR code > <a href="https://t.me/Atihaasya/178" target="_blank">QR code</a></li>
     </ul>
+        <!-- QR Code Dropdown Section -->
+    <div id="qrCodeSection" style="display: none;">
+        <img src="https://te.legra.ph/file/8f6da5cf6509d787c1ab3.jpg" alt="QR Code" width="200">
+        <button id="hideQRCode" onclick="hideQRCode()">↑ Hide QR Code</button>
+    </div>
+
+    <p>
+        Click here to see Qr code:
+        <img src="your-qr-code-image-url.png" alt="QR Code" width="100" onclick="showQRCode()">
+    </p>
+
+    <!-- JavaScript to toggle QR code display -->
+    <script>
+        function showQRCode() {
+            var qrCodeSection = document.getElementById("qrCodeSection");
+            qrCodeSection.style.display = "block";
+        }
+
+        function hideQRCode() {
+            var qrCodeSection = document.getElementById("qrCodeSection");
+            qrCodeSection.style.display = "none";
+        }
+    </script>
 
     <h2><img height="40" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/ezgif-1-85ea87b06c.gif" width="50">  Status</h2>
 
@@ -269,30 +291,4 @@
         document.getElementById("visitorCount").textContent = visitorCount;
     </script>
     <h11> © Sarcastic bot 2023-24<h11>
-
-
-    
-    <!-- QR Code Dropdown Section -->
-    <div id="qrCodeSection" style="display: none;">
-        <img src="https://te.legra.ph/file/8f6da5cf6509d787c1ab3.jpg" alt="QR Code" width="200">
-        <button id="hideQRCode" onclick="hideQRCode()">↑ Hide QR Code</button>
-    </div>
-
-    <p>
-        To display the QR code, click on the QR code below:
-        <img src="your-qr-code-image-url.png" alt="QR Code" width="100" onclick="showQRCode()">
-    </p>
-
-    <!-- JavaScript to toggle QR code display -->
-    <script>
-        function showQRCode() {
-            var qrCodeSection = document.getElementById("qrCodeSection");
-            qrCodeSection.style.display = "block";
-        }
-
-        function hideQRCode() {
-            var qrCodeSection = document.getElementById("qrCodeSection");
-            qrCodeSection.style.display = "none";
-        }
-    </script>
 

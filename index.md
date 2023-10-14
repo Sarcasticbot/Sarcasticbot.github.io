@@ -163,7 +163,7 @@
     </dl>
 
     <p align="left">
-        <button type="button" onclick="alert('Sorry, but please go away world 🙂🙂😂')">Source code ✨</button>
+        <button type="button" onclick="alert('Sorry, but please get lost 🙂🙂😂')">Source code ✨</button>
     </p>
 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousX1025&theme=github_dark&layout=compact&exclude_repo=FallenRobot,AnonX">

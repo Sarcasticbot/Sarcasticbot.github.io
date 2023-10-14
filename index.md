@@ -141,15 +141,17 @@
     <ul>
         <li>Via UPI id > verma.vishesh@paytm</li>
     </ul>
+    <ul>
+    
         <!-- QR Code Dropdown Section -->
     <div id="qrCodeSection" style="display: none;">
-        <img src="https://te.legra.ph/file/8f6da5cf6509d787c1ab3.jpg" alt="QR Code" width="200">
+        <img src="https://te.legra.ph/file/fe3ebd9fb08280d8830d2.jpg" alt="QR Code" width="300">
         <button id="hideQRCode" onclick="hideQRCode()">↑ Hide QR Code</button>
     </div>
 
     <p>
-        Click here to see Qr code:
-        <img src="your-qr-code-image-url.png" alt="QR Code" width="100" onclick="showQRCode()">
+         <li>Click here to see Qr code:</li>
+        <img src="https://te.legra.ph/file/c461b4f46dbfef6434840.png" alt="QR Code" width="100" onclick="showQRCode()">
     </p>
 
     <!-- JavaScript to toggle QR code display -->
@@ -164,6 +166,7 @@
             qrCodeSection.style.display = "none";
         }
     </script>
+    </ul>
 
     <h2><img height="40" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/ezgif-1-85ea87b06c.gif" width="50">  Status</h2>
 

@@ -150,7 +150,7 @@
     </div>
 
     <p>
-       <a href="#" onclick="showQRCode()">Click here to see <u>Qr code</u></a>
+       <a onclick="showQRCode()">Click here to see <u>Qr code</u></a>
     </p>
 
 
@@ -272,17 +272,27 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <style>
         .visitor-box {
+            display: inline-block;
             background-color: #007bff;
             color: #fff;
-            padding: 10px;
+            padding: 5px 10px;
             border-radius: 5px;
             text-align: center;
+            font-family: monospace;
+        }
+
+        .number {
+            background-color: #000;
+            color: #fff;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-family: monospace;
         }
     </style>
 </head>
 <body>
     <div class="visitor-box">
-        ⭐ Visitors: <span id="visitorCount">0</span>
+        ⭐ Visitors: <span id="visitorCount" class="number">0</span>
     </div>
     <div class="site-footer-credits">Some Footer Credits</div>
 
@@ -300,9 +310,9 @@
         localStorage.setItem("visitorCount", visitorCount);
         document.getElementById("visitorCount").textContent = visitorCount;
     </script>
+</body>
+</html>
 
-</head>
-<body>
 
     <h11> © Sarcastic bot 2023-24<h11>
 

@@ -211,9 +211,6 @@
             x[0].remove();
         }, 10);
     </script>
-
-    <p>© Sarcastic bot 2023-24</p>
-
     <p>Visitors: <span id="visitorCount">0</span></p>
 
     <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
@@ -234,6 +231,4 @@
         localStorage.setItem("visitorCount", visitorCount);
         document.getElementById("visitorCount").textContent = visitorCount;
     </script>
-</body>
-</html>
     

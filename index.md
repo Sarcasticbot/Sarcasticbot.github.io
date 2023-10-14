@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <style>
@@ -270,5 +269,3 @@
         document.getElementById("visitorCount").textContent = visitorCount;
     </script>
     <h11> © Sarcastic bot 2023-24<h11>
-</body>
-</html>

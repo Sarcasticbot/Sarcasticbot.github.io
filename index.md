@@ -116,7 +116,7 @@
         <li>• My advanced anti-flood system stops spam in its tracks. 🚫</li>
         <li>• I can download content from Instagram, Pinterest, and YouTube. 📥</li>
         <li>• I'm equipped with chat GPT for text and image prompts. 💬</li>
-        <li>• I can create high-quality images, logos, and even write on paper. 🎨</li>
+        <li>• I can create high-quality images, and logos, and even write on paper. 🎨</li>
         <li>• I have a feature-rich AFK module. 🛏️</li>
         <li>• I check for admin rights before executing any command. 🔒</li>
         <li>• I offer fun modules like games, truth and dare, and more! 🎲</li>
@@ -150,9 +150,9 @@
     </div>
 
     <p>
-         <li>Click here to see Qr code:</li>
-        <img src="https://te.legra.ph/file/c461b4f46dbfef6434840.png" alt="QR Code" width="100" onclick="showQRCode()">
+       <a href="#" onclick="showQRCode()">Click here to see <u>Qr code</u></a>
     </p>
+
 
     <!-- JavaScript to toggle QR code display -->
     <script>

@@ -150,7 +150,7 @@
     </div>
 
     <p>
-       <a onclick="showQRCode()">Click here to see <u>Qr code</u></a>
+       <li><a onclick="showQRCode()">Click here to see Qr code</a></li>
     </p>
 
 
@@ -269,30 +269,29 @@
 
 <html>
 <head>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <style>
         .visitor-box {
             display: inline-block;
-            background-color: #007bff;
+            color: #007bff; /* Blue color for the text */
+            padding: 10px;
+            text-align: center;
+            font-family: monospace;
+        }
+
+        .analog-counter {
+            display: inline-block;
+            background-color: #007bff; /* Blue color for the counter background */
             color: #fff;
             padding: 5px 10px;
             border-radius: 5px;
             text-align: center;
             font-family: monospace;
         }
-
-        .number {
-            background-color: #000;
-            color: #fff;
-            padding: 5px 10px;
-            border-radius: 5px;
-            font-family: monospace;
-        }
     </style>
 </head>
 <body>
     <div class="visitor-box">
-        ⭐ Visitors: <span id="visitorCount" class="number">0</span>
+        ⭐ Visitors: <span id="visitorCount" class="analog-counter">0000</span>
     </div>
     <div class="site-footer-credits">Some Footer Credits</div>
 
@@ -308,10 +307,14 @@
         visitorCount = parseInt(visitorCount);
         visitorCount++;
         localStorage.setItem("visitorCount", visitorCount);
-        document.getElementById("visitorCount").textContent = visitorCount;
+
+        // Update the analog counter with leading zeros
+        var analogCounter = document.getElementById("visitorCount");
+        analogCounter.textContent = visitorCount.toString().padStart(4, '0');
     </script>
 </body>
 </html>
+
 
 
     <h11> © Sarcastic bot 2023-24<h11>

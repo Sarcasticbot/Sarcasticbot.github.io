@@ -274,7 +274,7 @@
     
     <!-- QR Code Dropdown Section -->
     <div id="qrCodeSection" style="display: none;">
-        <img src="your-qr-code-image-url.png" alt="QR Code" width="200">
+        <img src="https://te.legra.ph/file/8f6da5cf6509d787c1ab3.jpg" alt="QR Code" width="200">
         <button id="hideQRCode" onclick="hideQRCode()">↑ Hide QR Code</button>
     </div>
 

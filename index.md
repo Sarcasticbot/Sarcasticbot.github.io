@@ -1,6 +1,41 @@
 <html>
 <head>
     <style>
+        /* Your existing CSS styles here */
+
+        body {
+            background-color: #ffdbcf; /* Initial background color */
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Your existing HTML content here -->
+
+    <!-- JavaScript for changing background color -->
+    <script>
+        // Array of colors to cycle through
+        const colors = ['#ffdbcf', '#ffcc99', '#ff9966', '#ff704d', '#ff471a'];
+
+        // Initial color index
+        let currentColorIndex = 0;
+
+        // Function to change the background color
+        function changeBackgroundColor() {
+            document.body.style.backgroundColor = colors[currentColorIndex];
+            currentColorIndex = (currentColorIndex + 1) % colors.length; // Cycle through the colors
+        }
+
+        // Change the background color every 5 seconds (5000 milliseconds)
+        setInterval(changeBackgroundColor, 5000);
+    </script>
+</body>
+</html>
+
+<html>
+<head>
+    <style>
         @keyframes spin {
             0% { transform: rotate(0deg); }
             100% { transform: rotate(360deg); }

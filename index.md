@@ -1,53 +1,38 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Mukesh's Portfolio | One of the first web development projects by Mukesh.">
-    <!-- Other meta tags and links go here -->
-
     <style>
+        @keyframes changeBackground {
+            0% {
+                background-color: #ffdbcf;
+            }
+            25% {
+                background-color: #ff0066;
+            }
+            50% {
+                background-color: #4772F7;
+            }
+            75% {
+                background-color: #33cc33;
+            }
+            100% {
+                background-color: #ffdbcf;
+            }
+        }
+
         body {
-            background: linear-gradient(45deg, #3a1c71, #d76d77, #ffaf7b);
-            background-size: 400% 400%;
-            animation: gradientBG 15s ease infinite, overlay 0.3s linear infinite;
-            font-family: 'Comic Sans MS', cursive, sans-serif;
-            overflow: hidden;
-            margin: 0;
-            padding: 0;
+            animation: changeBackground 10s linear infinite;
         }
 
-        @keyframes gradientBG {
-            0% {
-                background-position: 0% 50%;
-            }
-            50% {
-                background-position: 100% 50%;
-            }
-            100% {
-                background-position: 0% 50%;
-            }
-        }
-
-        @keyframes overlay {
-            0% {
-                background-color: rgba(58, 28, 113, 0.5);
-            }
-            50% {
-                background-color: rgba(215, 109, 119, 0.5);
-            }
-            100% {
-                background-color: rgba(255, 175, 123, 0.5);
-            }
-        }
-        
-        /* The rest of your CSS styles */
+        /* Your existing styles here... */
     </style>
-
 </head>
+
 <body>
-    <!-- Your HTML content goes here -->
+    <!-- Your existing content... -->
 </body>
+
 </html>
 
 <html>

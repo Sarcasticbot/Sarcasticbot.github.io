@@ -194,8 +194,8 @@
 
     <p>☆ Bot Owner</p>
     <ul>
-        <li><a href="https://t.me/cbsewalechicha10" target="_blank"><img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px"></a></li>
-        <li><a href="https://github.com/cbsewalechicha10" target="_blank"><img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px"></a></li>
+        <li><a href="https://t.me/cbsewalechicha10" target="_blank"><img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">
+        href="https://github.com/cbsewalechicha10" target="_blank"><img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px"></a></li>
     </ul>
 
     <p align="center">
@@ -228,9 +228,5 @@
         localStorage.setItem("visitorCount", visitorCount);
         document.getElementById("visitorCount").textContent = visitorCount;
     </script>
-
-    <img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="left" width="100px" 
-    style="border-radius: 50%"><h11> © Sarcastic bot 2023-24<h11><img 
-    src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif" align="right" width="100px" 
-    style="border-radius: 50%">
+    <h11> © Sarcastic bot 2023-24<h11>
     

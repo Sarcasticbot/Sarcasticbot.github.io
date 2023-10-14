@@ -2,21 +2,12 @@
 <html>
 <head>
     <style>
-        @keyframes twinkling {
-            0% { opacity: 1; transform: scale(1); }
-            50% { opacity: 0.5; transform: scale(1.05); }
-            100% { opacity: 1; transform: scale(1); }
-        }
-
-        @keyframes wave {
-            0% { background-position: 0 0; }
-            100% { background-position: 100% 0; }
-        }
-
         body {
             background-color: #000;
             font-family: 'Comic Sans MS', cursive, sans-serif;
             overflow: hidden;
+            margin: 0;
+            padding: 0;
         }
 
         .background {
@@ -25,8 +16,6 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: url('https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif');
-            animation: wave 10s linear infinite;
             z-index: -1;
         }
 
@@ -36,15 +25,14 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: transparent;
-            animation: twinkling 5s infinite;
+            background: url('https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif');
+            animation: twinkling 10s infinite;
             z-index: -1;
         }
 
-        .profile-pic {
-            animation: spin 5s linear infinite;
-            border: 4px solid pink;
-            border-radius: 50%;
+        @keyframes twinkling {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
         }
 
         /* Rest of your existing CSS styles */
@@ -56,8 +44,11 @@
     <div class="background"></div>
     <div class="stars"></div>
 
+    <!-- Your content goes here -->
+
 </body>
 </html>
+
 
 <html>
 <head>
@@ -79,7 +70,7 @@
 
         h1, h2, h3 {
             color: #ff0066;
-            text-align: center;
+            text-align: left;
         }
 
         p {

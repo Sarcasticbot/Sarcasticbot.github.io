@@ -266,32 +266,43 @@
     <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=500&lines=Thanks for visiting us 👀%E2%9C%8C%EF%B8%8F;Show some support and share us  👻%E2%9D%A4%EF%B8%8F;Thank you, have a nice day ❤✨%E2%9C%8C%EF%B8%8F">
     </p>
-    <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
-    <script>
-        var x = document.getElementsByClassName("site-footer-credits");
-        setTimeout(() => {
-            x[0].remove();
-        }, 10);
-    </script>
-    <p>⭐ Visitors: <span id="visitorCount">0</span></p>
 
-    <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
+<html>
+<head>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        .visitor-box {
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="visitor-box">
+        ⭐ Visitors: <span id="visitorCount">0</span>
+    </div>
+    <div class="site-footer-credits">Some Footer Credits</div>
+
     <script>
-        var x = document.getElementsByClassName("site-footer-credits");
-        setTimeout(() => {
-            x[0].remove();
-        }, 10);
+        // Remove the footer credits
+        var footerCredits = document.getElementsByClassName("site-footer-credits");
+        if (footerCredits.length > 0) {
+            footerCredits[0].remove();
+        }
 
         // Visitor count functionality
-        var visitorCount = localStorage.getItem("visitorCount");
-        if (visitorCount) {
-            visitorCount = parseInt(visitorCount);
-        } else {
-            visitorCount = 0;
-        }
+        var visitorCount = localStorage.getItem("visitorCount") || 0;
+        visitorCount = parseInt(visitorCount);
         visitorCount++;
         localStorage.setItem("visitorCount", visitorCount);
         document.getElementById("visitorCount").textContent = visitorCount;
     </script>
+
+</head>
+<body>
+
     <h11> © Sarcastic bot 2023-24<h11>
 

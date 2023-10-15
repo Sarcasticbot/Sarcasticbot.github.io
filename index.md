@@ -16,7 +16,7 @@
 
         .profile-pic {
             animation: spin 5s linear infinite;
-            border: 4px solid pink;
+            border: 4px solid black;
             border-radius: 50%;
         }
 
@@ -270,58 +270,9 @@
     <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=500&lines=Thanks for visiting us 👀%E2%9C%8C%EF%B8%8F;Show some support and share us  👻%E2%9D%A4%EF%B8%8F;Thank you, have a nice day ❤✨%E2%9C%8C%EF%B8%8F">
     </p>
-
-<html>
-<head>
-    <style>
-        .visitor-box {
-            display: inline-block;
-            color: #007bff; /* Blue color for the text */
-            padding: 10px;
-            text-align: center;
-            font-family: monospace;
-        }
-
-        .analog-counter {
-            display: inline-block;
-            background-color: #007bff; /* Blue color for the counter background */
-            color: #fff;
-            padding: 5px 10px;
-            border-radius: 5px;
-            text-align: center;
-            font-family: monospace;
-        }
-    </style>
-</head>
-<body>
-    <div class="visitor-box">
-        ⭐ Visitors: <span id="visitorCount" class="analog-counter">0000</span>
-    </div>
-    <div class="site-footer-credits">Some Footer Credits</div>
-
-    <script>
-        // Remove the footer credits
-        var footerCredits = document.getElementsByClassName("site-footer-credits");
-        if (footerCredits.length > 0) {
-            footerCredits[0].remove();
-        }
-
-        // Visitor count functionality
-        var visitorCount = localStorage.getItem("visitorCount") || 0;
-        visitorCount = parseInt(visitorCount);
-        visitorCount++;
-        localStorage.setItem("visitorCount", visitorCount);
-
-        // Update the analog counter with leading zeros
-        var analogCounter = document.getElementById("visitorCount");
-        analogCounter.textContent = visitorCount.toString().padStart(4, '0');
-    </script>
-</body>
-</html>
-
-
-
-
+<!-- hitwebcounter Code START -->
+<a href="" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=9407995&style=0010&nbdigits=6&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>    
     <h11> © Sarcastic bot 2023-24<h11>
 
 

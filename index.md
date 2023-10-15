@@ -24,7 +24,7 @@
         }
 
 
-        h1, h2, h3 {
+        h1, h1, h2 {
             color: #ff0066;
             text-align: center;
         }
@@ -78,7 +78,7 @@
         <li> I have AI features to make conversations interesting. 🤖</li>
     </ul>
 
-    <h2>How to use me...<img height="80" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (2).gif"/></h2>
+    <h1>How to use me...<img height="80" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (2).gif"/></h1>
 
     <ol>
         <li> Start <a href="https://t.me/Sarcastic_07_bot" target="_blank">Sarcastic bot</a> on Telegram</li>
@@ -112,9 +112,9 @@
         <li>You can always contact us at <a href="https://t.me/topperbothub" target="_blank">support chat</a></li>
     </ul>
 
-    <h2>Features <img height="50" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker.gif"/></h2>
+    <h1>Features <img height="50" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker.gif"/></h1>
 
-    <h3>Group management features...</h3>
+    <h2>Group management features...</h2>
 
     <ul>
         <li> I can keep spammers away from your group with ban, mute, and kick features.</li>
@@ -136,7 +136,7 @@
         <h1> <img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/songs.gif" width="90px"></h1>
     </p>
 
-    <h3>Sarcastic music player features...</h3>
+    <h2>Sarcastic music player features...</h2>
 
     <ul>
         <li> Sarcastic also has an advanced music player. 🎶</li>
@@ -146,7 +146,7 @@
         <li> Sarcastic player has many good features like seek, playforce, replay, authorized user, search, and many more.</li>
     </ul>
 
-    <h2>Donation ⭐</h2>
+    <h1>Donation ⭐</h1>
 
     <p>Your support can help us and Sarcastic work effectively on Telegram. 🙏</p>
 
@@ -180,7 +180,7 @@
     </script>
     </ul>
 
-    <h2><img height="40" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/ezgif-1-85ea87b06c.gif" width="50">  Status</h2>
+    <h1><img height="40" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/ezgif-1-85ea87b06c.gif" width="50">  Status</h1>
 
     <table>
         <tr>
@@ -216,7 +216,7 @@
 
     <img align="middle" src="https://te.legra.ph/file/51ff8eec802d771c7e651.png" />
 
-    <h2>Bio Data 👩‍💻</h2>
+    <h1>Bio Data 👩‍💻</h1>
 
     <dl>
         <dt>Name</dt>
@@ -254,7 +254,7 @@
     </p>
 
 
-    <h2>Contact Us<img height="60" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+    <h1>Contact Us<img height="60" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
     <ul>
         <li><a href="https://t.me/Sarcasticbott" target="_blank"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a></li>

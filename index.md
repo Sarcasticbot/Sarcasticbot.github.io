@@ -1,20 +1,28 @@
 <html>
+
 <head>
-    <style>
+   <style>
+        /* Your existing CSS styles here */
+
+        body {
+            background-color: #ffdbcf;
+            font-family: 'Autour One' /* Change the font-family property */
+        }
+
         @keyframes spin {
             0% { transform: rotate(0deg); }
             100% { transform: rotate(360deg); }
         }
+
         .profile-pic {
-            animation: spin 5s linear infinite;
-            border: 4px solid pink;
-            border-radius: 50%;
+          animation: spin 5s linear infinite;
+          border: 4px solid transparent;
+          border-radius: 50%;
+          background-image: linear-gradient(90deg, transparent, yellow, transparent);
+          background-origin: border-box;
+          background-clip: content-box, border-box;
         }
 
-        body {
-            background-color: #ffdbcf;
-            font-family: 'Comic Sans MS', cursive, sans-serif;
-        }
 
         h1, h2, h3 {
             color: #ff0066;
@@ -30,7 +38,7 @@
         }
 
         li::before {
-            content: '❤';
+            content: '▸';
             padding-right: 8px;
         }
 
@@ -44,14 +52,14 @@
             padding: 10px;
         }
     </style>
-</head>
+    </head>
 
-<body>
-    <p align="center">
-        <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" style="border-radius: 50%" class="profile-pic"> Hello cuties! ❤️</h1>
+    <body>
+    <p align="right">
+        <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" class="profile-pic"> Hello cuties ✨</h1>
     </p>
 
-    <p align="left">
+    <p align="centre">
         <img src="https://readme-typing-svg.herokuapp.com?color=4772F7width=420&lines=I+am+Sarcastic+a+telegram+bot+✨%E2%9C%8C%EF%B8%8F;Created+with+❤+by+my+developers+⭐%E2%9D%A4%EF%B8%8F">
     </p>
 
@@ -61,22 +69,22 @@
     <h1>About me <img height="60" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/Jai shree ram bro.gif"/></h1>
 
     <ul>
-        <li>➲ I am Sarcastic, your friendly telegram bot providing you with a spam-free and fun experience! 😊</li>
-        <li>➲ Crafted with love in Python and powered by MongoDB and SQL 🌼</li>
-        <li>➲ I have an advanced music player system. 🎵</li>
-        <li>➲ I can help manage your group with admin powers, like muting, kicking, and banning. 🛡️</li>
-        <li>➲ My anti-flood system keeps your group safe. 🌊</li>
-        <li>➲ I have AI features to make conversations interesting. 🤖</li>
-        <li>➲ I can share quotes and download content from YouTube, Pinterest, and Instagram. 📥</li>
-        <li>➲ I support various modules like federation, notes, welcome, filters, and more. ™</li>
+        <li> I am Sarcastic, your friendly telegram bot providing you with a spam-free and fun experience! 😊</li>
+        <li> Crafted with love in Python and powered by MongoDB and SQL 🌼</li>
+        <li> I have an advanced music player system. 🎵</li>
+        <li> I can help manage your group with admin powers, like muting, kicking, and banning. 🛡️</li>
+        <li> My anti-flood system keeps your group safe. 🌊</li>
+        <li> I have AI features to make conversations interesting. 🤖</li>
+        <li> I can share quotes and download content from YouTube, Pinterest, and Instagram. 📥</li>
+        <li> I support various modules like federation, notes, welcome, filters, and more. ™</li>
     </ul>
 
     <h2>How to use me...<img height="80" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (2).gif"/></h2>
 
     <ol>
-        <li>⨀ Start <a href="https://t.me/Sarcastic_07_bot" target="_blank">Sarcastic bot</a> on Telegram</li>
-        <li>⨀ Click on the "Add me to the clan" button and choose the group you want me to serve</li>
-        <li>⨀ Promote me with full rights to unlock my full potential</li>
+        <li> Start <a href="https://t.me/Sarcastic_07_bot" target="_blank">Sarcastic bot</a> on Telegram</li>
+        <li> Click on the "Add me to the clan" button and choose the group you want me to serve</li>
+        <li> Promote me with full rights to unlock my full potential</li>
     </ol>
 
     <a href="https://t.me/Sarcastic_07_bot?startgroup=true">
@@ -88,22 +96,22 @@
     </p>
 
     <ol>
-        <li>▫️ Go to your group</li>
-        <li>▫️ Press the Group's name</li>
-        <li>▫️ Press Modify</li>
-        <li>▫️ Press on Administrator</li>
-        <li>▫️ Press Add Administrator</li>
-        <li>▫️ Press the Magnifying Glass</li>
-        <li>▫️ Search for @Sarcastic_07_bot</li>
-        <li>▫️ Confirm</li>
+        <li> Go to your group</li>
+        <li> Press the Group's name</li>
+        <li> Press Modify</li>
+        <li> Press on Administrator</li>
+        <li> Press Add Administrator</li>
+        <li> Press the Magnifying Glass</li>
+        <li> Search for @Sarcastic_07_bot</li>
+        <li> Confirm</li>
     </ol>
 
     <p>⭐ Now, I'm ready to make your group more fun! (✿◠‿◠)</p>
 
     <ul>
-        <li>» If you encounter any issues, don't worry! 😅</li>
-        <li>⨀ Click on the help and command button, then select the basic guide</li>
-        <li>⨀ Enjoy! 😄</li>
+        <li> If you encounter any issues, don't worry! 😅</li>
+        <li> Click on the help and command button, then select the basic guide</li>
+        <li> Enjoy! 😄</li>
     </ul>
 
     <h2>Features <img height="50" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker.gif"/></h2>
@@ -111,15 +119,15 @@
     <h3>Group management features...</h3>
 
     <ul>
-        <li>• I can keep spammers away from your group with ban, mute, and kick features.</li>
-        <li>• I give a warm welcome to new users with style. 👋</li>
-        <li>• My advanced anti-flood system stops spam in its tracks. 🚫</li>
-        <li>• I can download content from Instagram, Pinterest, and YouTube. 📥</li>
-        <li>• I'm equipped with chat GPT for text and image prompts. 💬</li>
-        <li>• I can create high-quality images, and logos, and even write on paper. 🎨</li>
-        <li>• I have a feature-rich AFK module. 🛏️</li>
-        <li>• I check for admin rights before executing any command. 🔒</li>
-        <li>• I offer fun modules like games, truth and dare, and more! 🎲</li>
+        <li> I can keep spammers away from your group with ban, mute, and kick features.</li>
+        <li> I give a warm welcome to new users with style. 👋</li>
+        <li> My advanced anti-flood system stops spam in its tracks. 🚫</li>
+        <li> I can download content from Instagram, Pinterest, and YouTube. 📥</li>
+        <li> I'm equipped with chat GPT for text and image prompts. 💬</li>
+        <li> I can create high-quality images, and logos, and even write on paper. 🎨</li>
+        <li> I have a feature-rich AFK module. 🛏️</li>
+        <li> I check for admin rights before executing any command. 🔒</li>
+        <li> I offer fun modules like games, truth and dare, and more! 🎲</li>
     </ul>
 
     <p align="centre">
@@ -129,9 +137,9 @@
     <h3>Sarcastic music player features...</h3>
 
     <ul>
-        <li>• Sarcastic also has an advanced music player. 🎶</li>
-        <li>• It's stable and less prone to crashes with attractive thumbnails. 📸</li>
-        <li>• I can play music and videos in your groups! ✨</li>
+        <li> Sarcastic also has an advanced music player. 🎶</li>
+        <li> It's stable and less prone to crashes with attractive thumbnails. 📸</li>
+        <li> I can play music and videos in your groups! ✨</li>
     </ul>
 
     <h2>Donation ⭐</h2>
@@ -142,7 +150,7 @@
         <li>Via UPI id > verma.vishesh@paytm</li>
     </ul>
     <ul>
-    
+
         <!-- QR Code Dropdown Section -->
     <div id="qrCodeSection" style="display: none;">
         <img src="https://te.legra.ph/file/fe3ebd9fb08280d8830d2.jpg" alt="QR Code" width="300">
@@ -246,7 +254,7 @@
         <li>You can always contact us at <a href="https://t.me/topperbothub" target="_blank">support chat</a></li>
         <li>For any query and issue, you can also contact the bot developers</li>
     </ul>
-    
+
     <p>▸ Bot Owner</p>
     <ul>
         <a href="https://t.me/cbsewalechicha10" target="_blank">
@@ -267,59 +275,10 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=500&lines=Thanks for visiting us 👀%E2%9C%8C%EF%B8%8F;Show some support and share us  👻%E2%9D%A4%EF%B8%8F;Thank you, have a nice day ❤✨%E2%9C%8C%EF%B8%8F">
     </p>
 
-<html>
-<head>
-    <style>
-        .visitor-box {
-            display: inline-block;
-            color: #007bff; /* Blue color for the text */
-            padding: 10px;
-            text-align: center;
-            font-family: monospace;
-        }
-
-        .analog-counter {
-            display: inline-block;
-            background-color: #007bff; /* Blue color for the counter background */
-            color: #fff;
-            padding: 5px 10px;
-            border-radius: 5px;
-            text-align: center;
-            font-family: monospace;
-        }
-    </style>
-</head>
-<body>
-    <div class="visitor-box">
-        ⭐ Visitors: <span id="visitorCount" class="analog-counter">0000</span>
-    </div>
-    <div class="site-footer-credits">Some Footer Credits</div>
-
-    <script>
-        // Remove the footer credits
-        var footerCredits = document.getElementsByClassName("site-footer-credits");
-        if (footerCredits.length > 0) {
-            footerCredits[0].remove();
-        }
-
-        // Visitor count functionality
-        var visitorCount = localStorage.getItem("visitorCount") || 0;
-        visitorCount = parseInt(visitorCount);
-        visitorCount++;
-        localStorage.setItem("visitorCount", visitorCount);
-
-        // Update the analog counter with leading zeros
-        var analogCounter = document.getElementById("visitorCount");
-        analogCounter.textContent = visitorCount.toString().padStart(4, '0');
-    </script>
-</body>
-</html>
-
-
-
-
-    <h11> © Sarcastic bot 2023-24<h11>
+<h11>Visitors counts:</h11>
+<img src="https://hitwebcounter.com/counter/counter.php?page=9408025&style=0010&nbdigits=5&type=ip&initCount=0"/>   
+<h12> © Sarcastic bot 2023-24<h12>
 
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
-
+	

@@ -15,8 +15,14 @@
         }
 
         .profile-pic {
-            animation: spin 5s linear infinite;
+          animation: spin 5s linear infinite;
+          border: 4px solid transparent;
+          border-radius: 50%;
+          background-image: linear-gradient(90deg, transparent, yellow, transparent);
+          background-origin: border-box;
+          background-clip: content-box, border-box;
         }
+
 
         h1, h2, h3 {
             color: #ff0066;
@@ -49,8 +55,8 @@
     </head>
 
     <body>
-    <p align="centre">
-        <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" class="profile-pic"> Hello cuties! ❤️</h1>
+    <p align="right">
+        <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" class="profile-pic"> Hello cuties ✨</h1>
     </p>
 
     <p align="centre">

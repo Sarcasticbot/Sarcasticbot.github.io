@@ -6,7 +6,7 @@
 
         body {
             background-color: #ffdbcf;
-            font-family: 'Autour One', cursive, sans-serif; /* Change the font-family property */
+            font-family: 'Autour One' /* Change the font-family property */
         }
 
         @keyframes spin {
@@ -34,7 +34,7 @@
         }
 
         li::before {
-            content: '❤';
+            content: '▸';
             padding-right: 8px;
         }
 

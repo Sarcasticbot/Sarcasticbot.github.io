@@ -16,7 +16,7 @@
 
         .profile-pic {
             animation: spin 5s linear infinite;
-            border: 4px solid black;
+            border: 4px solid yellow;
             border-radius: 50%;
         }
 
@@ -55,7 +55,7 @@
         <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" style="border-radius: 50%" class="profile-pic"> Hello cuties! ❤️</h1>
     </p>
 
-    <p align="left">
+    <p align="centre">
         <img src="https://readme-typing-svg.herokuapp.com?color=4772F7width=420&lines=I+am+Sarcastic+a+telegram+bot+✨%E2%9C%8C%EF%B8%8F;Created+with+❤+by+my+developers+⭐%E2%9D%A4%EF%B8%8F">
     </p>
 
@@ -270,11 +270,10 @@
     <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=500&lines=Thanks for visiting us 👀%E2%9C%8C%EF%B8%8F;Show some support and share us  👻%E2%9D%A4%EF%B8%8F;Thank you, have a nice day ❤✨%E2%9C%8C%EF%B8%8F">
     </p>
-<!-- hitwebcounter Code START -->
-<a href="" target="">
-<h11>Visitor counts : <img src="https://hitwebcounter.com/counter/counter.php?page=9408025&style=0010&nbdigits=5&type=ip&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a></h11>     
+
+<h11>Visitors counts:</h11>
+<img src="https://hitwebcounter.com/counter/counter.php?page=9408025&style=0010&nbdigits=5&type=ip&initCount=0"/>   
 <h11> © Sarcastic bot 2023-24<h11>
 
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
-

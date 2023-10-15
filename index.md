@@ -1,54 +1,23 @@
 <html>
+
 <head>
-    <style>
+   <style>
         /* Your existing CSS styles here */
 
         body {
-            background-color: #ffdbcf; /* Initial background color */
-            font-family: 'Comic Sans MS', cursive, sans-serif;
-        }
-    </style>
-</head>
-
-<body>
-    <!-- Your existing HTML content here -->
-
-    <!-- JavaScript for changing background color -->
-    <script>
-        // Array of colors to cycle through
-        const colors = ['#ffdbcf', '#ffcc99', '#ff9966', '#ff704d', '#ff471a'];
-
-        // Initial color index
-        let currentColorIndex = 0;
-
-        // Function to change the background color
-        function changeBackgroundColor() {
-            document.body.style.backgroundColor = colors[currentColorIndex];
-            currentColorIndex = (currentColorIndex + 1) % colors.length; // Cycle through the colors
+            background-color: #ffdbcf;
+            font-family: 'Autour One', cursive, sans-serif; /* Change the font-family property */
         }
 
-        // Change the background color every 5 seconds (5000 milliseconds)
-        setInterval(changeBackgroundColor, 5000);
-    </script>
-</body>
-</html>
-
-<html>
-<head>
-    <style>
         @keyframes spin {
             0% { transform: rotate(0deg); }
             100% { transform: rotate(360deg); }
         }
+
         .profile-pic {
             animation: spin 5s linear infinite;
             border: 4px solid pink;
             border-radius: 50%;
-        }
-
-        body {
-            background-color: #ffdbcf;
-            font-family: 'Comic Sans MS', cursive, sans-serif;
         }
 
         h1, h2, h3 {
@@ -79,9 +48,9 @@
             padding: 10px;
         }
     </style>
-</head>
+    </head>
 
-<body>
+    <body>
     <p align="center">
         <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" style="border-radius: 50%" class="profile-pic"> Hello cuties! ❤️</h1>
     </p>

@@ -26,7 +26,7 @@
 
         h1, h1, h2 {
             color: #ff0066;
-            text-align: center;
+            text-align: left;
         }
 
         p {

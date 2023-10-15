@@ -255,7 +255,6 @@
         <li>You can always contact us at <a href="https://t.me/topperbothub" target="_blank">support chat</a></li>
         <li>For any query and issue, you can also contact the bot developers</li>
     </ul>
-
     <p>▸ Bot Owner</p>
     <ul>
         <a href="https://t.me/cbsewalechicha10" target="_blank">
@@ -270,14 +269,11 @@
         display: inline-block; /* This makes them appear side by side */
     }
     </style>
-
-
     <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=500&lines=Thanks for visiting us 👀%E2%9C%8C%EF%B8%8F;Show some support and share us  👻%E2%9D%A4%EF%B8%8F;Thank you, have a nice day ❤✨%E2%9C%8C%EF%B8%8F">
     </p>
+<p>Visitors counts: <img src="https://hitwebcounter.com/counter/counter.php?page=9408025&style=0010&nbdigits=5&type=ip&initCount=0"/></p>
 
-<p <img src="https://hitwebcounter.com/counter/counter.php?page=9408025&style=0010&nbdigits=5&type=ip&initCount=0"/> >Visitors counts:</p>
-<h12> © Sarcastic bot 2023-24<h12>
-
+<h13> © Sarcastic bot 2023-24<h13>
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>

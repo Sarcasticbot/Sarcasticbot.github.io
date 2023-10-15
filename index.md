@@ -136,8 +136,9 @@
 
     <ul>
         <li> Sarcastic also has an advanced music player. 🎶</li>
-        <li> It's stable and less prone to crashes with attractive thumbnails. 📸</li>
+        <li> It's stable and less prone to crashes with attractive thumbnails with user and group pfp.</li>
         <li> I can play music and videos in your groups! ✨</li>
+        <li> Sarcastic player has many good features like seek, playforce, replay, authorized user, search, and many more.</li>
     </ul>
 
     <h2>Donation ⭐</h2>
@@ -230,19 +231,23 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousX1025&theme=github_dark&layout=compact&exclude_repo=FallenRobot,AnonX">
 
     <p align="center">
-        <a href="https://www.python.org/">
-            <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" />
-        </a>
-        <a href="https://pypi.org/project/Telethon/">
-            <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" />
-        </a>
-        <a href="https://pypi.org/project/Pyrogram/">
-            <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" />
-        </a>
-        <a href="https://github.com/cbsewalechicha10/Sarcasticbot">
-            <img src="https://img.shields.io/github/repo-size/AnonymousX1025/FallenRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" />
-        </a>
+    <a href="https://www.python.org/">
+        <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" />
+    </a>
+    <a href="https://pypi.org/project/Telethon/">
+        <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" />
+    </a>
+    <a href="https://pypi.org/project/Pyrogram/">
+        <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" />
+    </a>
+    <a href="https://pypi.org/project/pytgcall/">
+        <img src="https://img.shields.io/pypi/v/pytgcall?color=white&label=pytgcall&logo=python&logoColor=blue&style=for-the-badge" />
+    </a>
+    <a href="https://github.com/cbsewalechicha10/Sarcasticbot">
+        <img src="https://img.shields.io/github/repo-size/AnonymousX1025/FallenRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" />
+    </a>
     </p>
+
 
     <h2>Contact Us<img height="60" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
@@ -269,7 +274,7 @@
     <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=500&lines=Thanks for visiting us 👀%E2%9C%8C%EF%B8%8F;Show some support and share us  👻%E2%9D%A4%EF%B8%8F;Thank you, have a nice day ❤✨%E2%9C%8C%EF%B8%8F">
     </p>
-<p>▸ Visitors counts: <img src="https://hitwebcounter.com/counter/counter.php?page=9408025&style=0010&nbdigits=5&type=ip&initCount=0" width="100px" height="10px"></p>
+<p>▸ Visitors counts: <img src="https://hitwebcounter.com/counter/counter.php?page=9408025&style=0010&nbdigits=5&type=ip&initCount=0" width="101px" height="28px"></p>
 
 <h13> © Sarcastic bot 2023-24<h13>
 

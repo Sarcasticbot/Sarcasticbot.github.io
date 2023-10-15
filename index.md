@@ -276,8 +276,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=500&lines=Thanks for visiting us 👀%E2%9C%8C%EF%B8%8F;Show some support and share us  👻%E2%9D%A4%EF%B8%8F;Thank you, have a nice day ❤✨%E2%9C%8C%EF%B8%8F">
     </p>
 
-<h11>Visitors counts:</h11>
-<img src="https://hitwebcounter.com/counter/counter.php?page=9408025&style=0010&nbdigits=5&type=ip&initCount=0"/>   
+<p <img src="https://hitwebcounter.com/counter/counter.php?page=9408025&style=0010&nbdigits=5&type=ip&initCount=0"/> >Visitors counts:</p>
 <h12> © Sarcastic bot 2023-24<h12>
 
 

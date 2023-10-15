@@ -250,8 +250,8 @@
     <h2>Contact Us<img height="60" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
     <ul>
-        <li>☆ <a href="https://t.me/Sarcasticbott" target="_blank"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a></li>
-        <li>☆ <a href="https://t.me/topperbothub" target="_blank"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a></li>
+        <li><a href="https://t.me/Sarcasticbott" target="_blank"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a></li>
+        <li><a href="https://t.me/topperbothub" target="_blank"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a></li>
         <li>You can always contact us at <a href="https://t.me/topperbothub" target="_blank">support chat</a></li>
         <li>For any query and issue, you can also contact the bot developers</li>
     </ul>

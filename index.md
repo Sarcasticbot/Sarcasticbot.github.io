@@ -241,7 +241,7 @@
         <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" />
     </a>
     <a href="https://pypi.org/project/pytgcall/">
-        <img src="https://img.shields.io/pypi/v/pytgcall?color=white&label=pytgcall&logo=python&logoColor=blue&style=for-the-badge" />
+        <img src="https://img.shields.io/pypi/v/pytgcalls?color=white&label=pytgcalls&logo=python&logoColor=blue&style=for-the-badge" />
     </a>
     <a href="https://github.com/cbsewalechicha10/Sarcasticbot">
         <img src="https://img.shields.io/github/repo-size/AnonymousX1025/FallenRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" />

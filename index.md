@@ -271,9 +271,9 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=500&lines=Thanks for visiting us 👀%E2%9C%8C%EF%B8%8F;Show some support and share us  👻%E2%9D%A4%EF%B8%8F;Thank you, have a nice day ❤✨%E2%9C%8C%EF%B8%8F">
     </p>
 <!-- hitwebcounter Code START -->
-<a href="" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=9407995&style=0010&nbdigits=6&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>    
-    <h11> © Sarcastic bot 2023-24<h11>
+<a href="" target="">
+<h11>Visitor counts : <img src="https://hitwebcounter.com/counter/counter.php?page=9408025&style=0010&nbdigits=5&type=ip&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a></h11>     
+<h11> © Sarcastic bot 2023-24<h11>
 
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>

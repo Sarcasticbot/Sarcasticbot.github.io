@@ -118,14 +118,18 @@
 
     <ul>
         <li> I can keep spammers away from your group with ban, mute, and kick features.</li>
-        <li> I give a warm welcome to new users with style. 👋</li>
-        <li> My advanced anti-flood system stops spam in its tracks. 🚫</li>
-        <li> I can download content from Instagram, Pinterest, and YouTube. 📥</li>
-        <li> I'm equipped with chat GPT for text and image prompts. 💬</li>
-        <li> I can create high-quality images, and logos, and even write on paper. 🎨</li>
-        <li> I have a feature-rich AFK module. 🛏️</li>
-        <li> I check for admin rights before executing any command. 🔒</li>
-        <li> I offer fun modules like games, truth and dare, and more! 🎲</li>
+        <li> I give a warm welcome to new users with style.</li>
+        <li> My advanced anti-flood system stops spam in its tracks.</li>
+        <li> I can download content from Instagram, Pinterest, Facebook, Twitter and  YouTube.</li>
+        <li> I'm equipped with chat GPT for text and image prompts.</li>
+        <li> I can create high-quality images, and logos, and even write on paper.</li>
+        <li> I have a feature-rich AFK module.</li>
+        <li> I have a quotly feature.</li>
+        <li> I have lyrics finder also.</li>
+        <li> I have a rich all-sticker type kang module.</li>
+        <li> I also have such useful features for groups like night mode, federation, locks, and many more.</li>
+        <li> I check for admin rights before executing any command.</li>
+        <li> I offer fun modules like games, truth and dare, couples, howall, judge, wish and many more features</li>
     </ul>
 
     <p align="centre">
@@ -138,6 +142,7 @@
         <li> Sarcastic also has an advanced music player. 🎶</li>
         <li> It's stable and less prone to crashes with attractive thumbnails with user and group pfp.</li>
         <li> I can play music and videos in your groups! ✨</li>
+        <li> I have music and video search and download option also available.</li>
         <li> Sarcastic player has many good features like seek, playforce, replay, authorized user, search, and many more.</li>
     </ul>
 

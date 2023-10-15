@@ -70,14 +70,12 @@
     <h1>About me <img height="60" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/Jai shree ram bro.gif"/></h1>
 
     <ul>
-        <li> I am Sarcastic, your friendly telegram bot providing you with a spam-free and fun experience! 😊</li>
-        <li> Crafted with love in Python and powered by MongoDB and SQL 🌼</li>
-        <li> I have an advanced music player system. 🎵</li>
+        <li> I am Sarcastic, your friendly telegram bot providing you with a spam-free and fun experience!</li>
+        <li> Crafted with love in Python and used database of MongoDB and SQL</li>
+        <li> I have an advanced music player system.</li>
         <li> I can help manage your group with admin powers, like muting, kicking, and banning. 🛡️</li>
-        <li> My anti-flood system keeps your group safe. 🌊</li>
+        <li> My anti-flood system keeps your group safe.</li>
         <li> I have AI features to make conversations interesting. 🤖</li>
-        <li> I can share quotes and download content from YouTube, Pinterest, and Instagram. 📥</li>
-        <li> I support various modules like federation, notes, welcome, filters, and more. ™</li>
     </ul>
 
     <h2>How to use me...<img height="80" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (2).gif"/></h2>
@@ -89,7 +87,7 @@
     </ol>
 
     <a href="https://t.me/Sarcastic_07_bot?startgroup=true">
-        <img src="https://te.legra.ph/file/ccccd500da8795eea9e5b.jpg" width="600px">
+        <img src="https://te.legra.ph/file/ccccd500da8795eea9e5b.jpg" width="500px">
     </a>
 
     <p>
@@ -110,9 +108,8 @@
     <p>⭐ Now, I'm ready to make your group more fun! (✿◠‿◠)</p>
 
     <ul>
-        <li> If you encounter any issues, don't worry! 😅</li>
-        <li> Click on the help and command button, then select the basic guide</li>
-        <li> Enjoy! 😄</li>
+        <li> If you encounter any issues, don't worry!</li>
+        <li>You can always contact us at <a href="https://t.me/topperbothub" target="_blank">support chat</a></li>
     </ul>
 
     <h2>Features <img height="50" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker.gif"/></h2>

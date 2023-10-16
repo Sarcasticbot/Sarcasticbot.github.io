@@ -1,12 +1,23 @@
-<html>
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-   <style>
-        /* Your existing CSS styles here */
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sarcastic Bot</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700">
+    <style>
         body {
-            background-color: #ffdbcf;
-            font-family: 'Autour One' /* Change the font-family property */
+            background: linear-gradient(90deg, #ffdbcf, #ffc3a0);
+            font-family: 'Poppins', sans-serif;
+            color: #333;
+        }
+
+        .profile-pic {
+            animation: spin 5s linear infinite;
+            border: 4px solid #ff0066;
+            border-radius: 50%;
+            background: conic-gradient(from 0deg, #ff0066, #ffdbcf, #ff0066);
+            width: 100px;
         }
 
         @keyframes spin {
@@ -14,33 +25,22 @@
             100% { transform: rotate(360deg); }
         }
 
-        .profile-pic {
-          animation: spin 5s linear infinite;
-          border: 4px solid transparent;
-          border-radius: 50%;
-          background-image: linear-gradient(90deg, transparent, yellow, transparent);
-          background-origin: border-box;
-          background-clip: content-box, border-box;
-        }
-
-
         h1, h2, h3 {
             color: #ff0066;
-            text-align: centre;
+            text-align: center;
         }
 
         p {
-            color: #333;
+            text-align: center;
         }
 
         ul, ol {
             list-style: none;
-
         }
 
         li::before {
             content: '▸';
-            padding-right: 8px;
+            margin-right: 8px;
         }
 
         table {
@@ -53,7 +53,17 @@
             padding: 10px;
         }
     </style>
-    </head>
+</head>
+<body>
+    <p align="right">
+        <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" class="profile-pic"> Hello cuties ✨</h1>
+    </p>
+
+    <p>
+        <img src="https://readme-typing-svg.herokuapp.com?color=4772F7&width=420&lines=I+am+Sarcastic+a+telegram+bot+✨%E2%9C%8C%EF%B8%8F;Created+with+❤+by+my+developers+⭐%E2%9D%A4%EF%B8%8F">
+    </p>
+
+    <!-- Other content goes here -->
 
     <body>
     <p align="right">
@@ -282,5 +292,8 @@
 <p>▸ Visitors counts: <img src="https://hitwebcounter.com/counter/counter.php?page=9408025&style=0010&nbdigits=5&type=ip&initCount=0" width="101px" height="28px"></p>
 
 <h13> © Sarcastic bot 2023-24<h13>
+
+</body>
+</html>
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>

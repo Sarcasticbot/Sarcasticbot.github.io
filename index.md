@@ -300,12 +300,11 @@
     </body>
     </html>
 
-
+    <img height="500" width="1000" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/Radha.gif">
 
     <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=500&lines=Thanks for visiting us 👀%E2%9C%8C%EF%B8%8F;Show some support and share us  👻%E2%9D%A4%EF%B8%8F;Thank you, have a nice day ❤✨%E2%9C%8C%EF%B8%8F">
     </p>
-
     <p><img height="100" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif">
     © Sarcastic bot 2023-24<img height="100" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif"></p>
 

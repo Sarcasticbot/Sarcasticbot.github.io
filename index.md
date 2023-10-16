@@ -307,11 +307,11 @@
     </p>
 
     <p align="left">
-        <img src="https://raw.githubusercontent.com/innng/innng/master/assets/bandriya.gif">
+        <img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif">
     </p>
     <p>© Sarcastic bot 2023-24</p>
     <p align="right">
-        <img src="https://raw.githubusercontent.com/innng/innng/master/assets/bandriya.gif">
+        <img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/bandriya.gif">
     </p>
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>

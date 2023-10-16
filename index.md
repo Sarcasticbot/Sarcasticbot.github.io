@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -62,17 +61,7 @@
     <p>
         <img src="https://readme-typing-svg.herokuapp.com?color=4772F7&width=420&lines=I+am+Sarcastic+a+telegram+bot+✨%E2%9C%8C%EF%B8%8F;Created+with+❤+by+my+developers+⭐%E2%9D%A4%EF%B8%8F">
     </p>
-
-    <!-- Other content goes here -->
-
     <body>
-    <p align="right">
-        <h1> <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" width="100px" class="profile-pic"> Hello cuties ✨</h1>
-    </p>
-
-    <p align="centre">
-        <img src="https://readme-typing-svg.herokuapp.com?color=4772F7width=420&lines=I+am+Sarcastic+a+telegram+bot+✨%E2%9C%8C%EF%B8%8F;Created+with+❤+by+my+developers+⭐%E2%9D%A4%EF%B8%8F">
-    </p>
 
     <br>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -271,9 +260,7 @@
         <li><a href="https://t.me/topperbothub" target="_blank"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a></li>
         <li>You can always contact us at <a href="https://t.me/topperbothub" target="_blank">support chat</a></li>
         <li>For any query and issue, you can also contact the bot developers</li>
-    </ul>
-    <p>▸ Bot Owner</p>
-    <ul>
+        <li>Bot owner ✨</li>
         <a href="https://t.me/cbsewalechicha10" target="_blank">
             <img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">
         </a>
@@ -291,9 +278,6 @@
     </p>
 <p>▸ Visitors counts: <img src="https://hitwebcounter.com/counter/counter.php?page=9408025&style=0010&nbdigits=5&type=ip&initCount=0" width="101px" height="28px"></p>
 
-<h13> © Sarcastic bot 2023-24<h13>
-
-</body>
-</html>
+<p>© Sarcastic bot 2023-24</p>
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>

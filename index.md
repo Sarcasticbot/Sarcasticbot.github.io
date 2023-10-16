@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,39 +6,52 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700">
     <style>
         body {
-            margin: 0;
+            background: linear-gradient(90deg, #ffdbcf, #ffc3a0);
             font-family: 'Poppins', sans-serif;
-            overflow: hidden;
-            background-color: #000;
+            color: #333;
         }
 
-        .background {
-            position: absolute;
-            top: 0;
-            left: 0;
+        .profile-pic {
+            animation: spin 5s linear infinite;
+            border: 4px solid #ff0066;
+            border-radius: 50%;
+            background: conic-gradient(from 0deg, #ff0066, #ffdbcf, #ff0066);
+            width: 100px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        h1, h2, h3 {
+            color: #ff0066;
+            text-align: center;
+        }
+
+        p {
+            text-align: center;
+        }
+
+        ul, ol {
+            list-style: none;
+        }
+
+        li::before {
+            content: '▸';
+            margin-right: 8px;
+        }
+
+        table {
+            border-collapse: collapse;
             width: 100%;
-            height: 100%;
-            background-image: url('your-background-image.jpg');
-            background-size: cover;
-            background-attachment: fixed;
-            animation: parallax 10s infinite linear;
         }
 
-        @keyframes parallax {
-            0% {
-                transform: translateY(0);
-            }
-            100% {
-                transform: translateY(-50%);
-            }
+        th, td {
+            border: 2px solid #ff0066;
+            padding: 10px;
         }
-
-        /* Rest of your CSS styles remain unchanged */
     </style>
-</head>
-<body>
-    <div class="background"></div>
-  
 </head>
 <body>
     <p align="right">
@@ -49,7 +61,10 @@
     <p>
         <img src="https://readme-typing-svg.herokuapp.com?color=4772F7&width=420&lines=I+am+Sarcastic+a+telegram+bot+✨%E2%9C%8C%EF%B8%8F;Created+with+❤+by+my+developers+⭐%E2%9D%A4%EF%B8%8F">
     </p>
-    <body>
+
+    <!-- Other content goes here -->
+
+
 
     <br>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -244,18 +259,30 @@
     <h1>Contact Us<img height="60" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
     <ul>
-        <li><a href="https://t.me/Sarcasticbott" target="_blank"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a></li>
-        <li><a href="https://t.me/topperbothub" target="_blank"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a></li>
-        <li>You can always contact us at <a href="https://t.me/topperbothub" target="_blank">support chat</a></li>
-        <li>For any query and issue, you can also contact the bot developers</li>
-        <li>Bot owner ✨</li>
-        <a href="https://t.me/cbsewalechicha10" target="_blank">
-            <img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">
+    <li>
+        <a href="https://t.me/Sarcasticbott" target="_blank">
+            <img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram">
         </a>
-        <a href="https://github.com/cbsewalechicha10" target="_blank">
-            <img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">
+    </li>
+    <li>
+        <a href="https://t.me/topperbothub" target="_blank">
+            <img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">
         </a>
+    </li>
+    <li>
+        You can always contact us at
+        <a href="https://t.me/topperbothub" target="_blank">support chat</a>
+    </li>
+    <li>For any query and issue, you can also contact the bot developers</li>
+    <li>Bot owner ✨</li>
     </ul>
+    <a href="https://t.me/cbsewalechicha10" target="_blank">
+        <img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">
+    </a>
+    <a href="https://github.com/cbsewalechicha10" target="_blank">
+        <img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">
+    </a>
+
     <style>
     li a {
         display: inline-block; /* This makes them appear side by side */

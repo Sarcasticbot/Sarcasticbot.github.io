@@ -10,7 +10,7 @@
             font-family: 'Poppins', sans-serif;
             color: #333;
         }
-
+        
         .profile-pic {
             animation: spin 5s linear infinite;
             border: 4px solid #ff0066;
@@ -274,20 +274,16 @@
         <a href="https://t.me/topperbothub" target="_blank">support chat</a>
     </li>
     <li>For any query and issue, you can also contact the bot developers</li>
-    <li>Bot owner ✨</li>
+    <li style="text-align: center;">Bot owner ✨</li>
     </ul>
-    <a href="https://t.me/cbsewalechicha10" target="_blank">
-        <img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">
+    <a href="https://t.me/cbsewalechicha10" target="_blank" style="display: block; margin: 0 auto; text-align: center;">
+    <img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">
     </a>
-    <a href="https://github.com/cbsewalechicha10" target="_blank">
-        <img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">
+    <a href="https://github.com/cbsewalechicha10" target="_blank" style="display: block; margin: 0 auto; text-align: center;">
+    <img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">
     </a>
 
-    <style>
-    li a {
-        display: inline-block; /* This makes them appear side by side */
-    }
-    </style>
+
     <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=500&lines=Thanks for visiting us 👀%E2%9C%8C%EF%B8%8F;Show some support and share us  👻%E2%9D%A4%EF%B8%8F;Thank you, have a nice day ❤✨%E2%9C%8C%EF%B8%8F">
     </p>

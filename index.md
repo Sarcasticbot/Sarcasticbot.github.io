@@ -274,7 +274,8 @@
         <a href="https://t.me/topperbothub" target="_blank">support chat</a>
     </li>
     <li>For any query and issue, you can also contact the bot developers</li>
-    <h2>Bot owner</h2>
+    <h2>Contact Us<img height="60" src="https://raw.githubusercontent.com/innng/innng/master/assets/vishesh.mp4"/></h2>
+
 
     <html>
     <head>

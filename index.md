@@ -218,7 +218,7 @@
 
     <img align="middle" src="https://te.legra.ph/file/51ff8eec802d771c7e651.png" />
 
-    <h1>Bio Data 👩‍💻</h1>
+    <h1>Bio Data ✨</h1>
 
     <dl>
         <dt>Name</dt>
@@ -274,9 +274,7 @@
         <a href="https://t.me/topperbothub" target="_blank">support chat</a>
     </li>
     <li>For any query and issue, you can also contact the bot developers</li>
-    <h2>Contact Us<img height="60" src="https://raw.githubusercontent.com/innng/innng/master/assets/vishesh.mp4"/></h2>
-
-
+    <h2>Bot owner 👨‍💻</h2>
     <html>
     <head>
     <style>

@@ -274,14 +274,33 @@
         <a href="https://t.me/topperbothub" target="_blank">support chat</a>
     </li>
     <li>For any query and issue, you can also contact the bot developers</li>
-    <li style="text-align: center;">Bot owner ✨</li>
-    </ul>
-    <a href="https://t.me/cbsewalechicha10" target="_blank" style="display: block; margin: 0 auto; text-align: center;">
-    <img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">
-    </a>
-    <a href="https://github.com/cbsewalechicha10" target="_blank" style="display: block; margin: 0 auto; text-align: center;">
-    <img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">
-    </a>
+    <h2>Bot owner</h2>
+
+    <html>
+    <head>
+    <style>
+        .center {
+            text-align: center;
+        }
+
+        .center a {
+            display: inline-block;
+            margin: 0 10px; /* Adjust the margin as needed */
+        }
+    </style>
+    </head>
+    <body>
+    <div class="center">
+        <a href="https://t.me/cbsewalechicha10" target="_blank">
+            <img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">
+        </a>
+        <a href="https://github.com/cbsewalechicha10" target="_blank">
+            <img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">
+        </a>
+    </div>
+    </body>
+    </html>
+
 
 
     <p align="center">

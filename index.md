@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,52 +7,39 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700">
     <style>
         body {
-            background: linear-gradient(90deg, #ffdbcf, #ffc3a0);
+            margin: 0;
             font-family: 'Poppins', sans-serif;
-            color: #333;
+            overflow: hidden;
+            background-color: #000;
         }
 
-        .profile-pic {
-            animation: spin 5s linear infinite;
-            border: 4px solid #ff0066;
-            border-radius: 50%;
-            background: conic-gradient(from 0deg, #ff0066, #ffdbcf, #ff0066);
-            width: 100px;
-        }
-
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-
-        h1, h2, h3 {
-            color: #ff0066;
-            text-align: center;
-        }
-
-        p {
-            text-align: center;
-        }
-
-        ul, ol {
-            list-style: none;
-        }
-
-        li::before {
-            content: '▸';
-            margin-right: 8px;
-        }
-
-        table {
-            border-collapse: collapse;
+        .background {
+            position: absolute;
+            top: 0;
+            left: 0;
             width: 100%;
+            height: 100%;
+            background-image: url('your-background-image.jpg');
+            background-size: cover;
+            background-attachment: fixed;
+            animation: parallax 10s infinite linear;
         }
 
-        th, td {
-            border: 2px solid #ff0066;
-            padding: 10px;
+        @keyframes parallax {
+            0% {
+                transform: translateY(0);
+            }
+            100% {
+                transform: translateY(-50%);
+            }
         }
+
+        /* Rest of your CSS styles remain unchanged */
     </style>
+</head>
+<body>
+    <div class="background"></div>
+  
 </head>
 <body>
     <p align="right">

@@ -1,51 +1,37 @@
-/* Reset some default styles */
-body, h1, h2, p {
-    margin: 0;
+/* Add your existing CSS styles here */
+
+/* Hide the side navigation by default */
+#side-nav {
+    width: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background-color: #333;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    z-index: 1;
+}
+
+#side-nav ul {
+    list-style: none;
     padding: 0;
 }
 
-body {
-    font-family: Arial, sans-serif;
-    background: url('background-image.jpg') fixed center;
-    background-size: cover;
-}
-
-header {
-    background-color: rgba(0, 0, 0, 0.7);
-    color: white;
-    text-align: center;
-    padding: 20px 0;
-}
-
-nav ul {
-    list-style: none;
-    display: flex;
-    justify-content: center;
-    background-color: rgba(0, 0, 0, 0.5);
+#side-nav li {
     padding: 10px;
 }
 
-nav li {
-    margin: 0 20px;
-}
-
-nav a {
+#side-nav a {
+    color: white;
     text-decoration: none;
-    color: white;
 }
 
-main {
-    padding: 20px;
-    background-color: rgba(255, 255, 255, 0.9);
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+/* Button to open the side navigation */
+#show-nav {
+    position: fixed;
+    top: 20px;
+    left: 20px;
 }
 
-footer {
-    text-align: center;
-    background-color: rgba(0, 0, 0, 0.7);
-    color: white;
-    padding: 10px 0;
-}
-
-/* Add animations or other custom styles as desired */

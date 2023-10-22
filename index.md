@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sarcastic Bot - User Guide</title>
     <style>
-        /* Updated CSS for a "sexy" look */
+        /* Updated CSS for a "sexy" and animated look */
         body {
-            background-color: #272727;
+            background-color: #1b1b1b;
             color: #fff;
             font-family: 'Arial', sans-serif;
         }
@@ -19,9 +19,10 @@
             z-index: 1;
             top: 0;
             left: 0;
-            background-color: #1b1b1b;
+            background-color: #272727;
             overflow-x: hidden;
             padding-top: 20px;
+            transition: 0.3s;
         }
 
         .sidenav a {
@@ -37,38 +38,54 @@
             color: #ff6b6b;
         }
 
-        /* Updated styles for buttons and sections */
+        /* Animated styles for buttons and sections */
         .dropdown-btn {
             width: 100%;
             padding: 14px;
             text-align: left;
-            background-color: #1b1b1b;
+            background-color: #272727;
             color: #fff;
             border: none;
             cursor: pointer;
+            transition: 0.3s;
         }
 
         .content {
             margin-left: 270px;
             padding: 20px;
+            transition: 0.3s;
         }
 
         .content h1 {
             font-size: 36px;
             color: #ff6b6b;
+            animation: fadeInUp 1s ease both;
         }
 
         .content p {
             font-size: 18px;
             line-height: 1.6;
+            animation: fadeInUp 1s ease both;
         }
 
-        /* Stylish footer */
+        /* Stylish footer with animation */
         footer {
-            background-color: #1b1b1b;
+            background-color: #272727;
             color: #fff;
             text-align: center;
             padding: 10px 0;
+        }
+
+        /* CSS animations */
+        @keyframes fadeInUp {
+            0% {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            100% {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
     </style>
 </head>
@@ -114,4 +131,30 @@
         </section>
 
         <section id="contact">
-            <h1>Get in Touch 📞</h
+            <h1>Get in Touch 📞</h1>
+            <p>Have questions, feedback, or just want to share a laugh? We're all ears. Reach us through various channels.</p>
+        </section>
+
+        <section id="features">
+            <h1>Features Galore! 🚀</h1>
+            <p>Discover the fantastic features that set Sarcastic Bot apart. From clever comebacks to hilarious one-liners, we've got it all.</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; Sarcastic Bot 2023-24</p>
+    </footer>
+
+    <script>
+        // JavaScript for dropdown functionality (same as before)
+        var dropdownButtons = document.querySelectorAll(".dropdown-btn");
+
+        dropdownButtons.forEach(function (button) {
+            button.addEventListener("click", function () {
+                var container = this.nextElementSibling;
+                container.style.display = container.style.display === "block" ? "none" : "block";
+            });
+        });
+    </script>
+</body>
+</html>

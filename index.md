@@ -6,15 +6,16 @@
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
+    <button id="show-nav">Show Navigation</button>
+    <nav id="side-nav">
+        <ul>
+            <li><a href="#features">Features</a></li>
+            <li><a href="#how-it-works">How It Works</a></li>
+            <li><a href="#usage">Usage</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
     <header>
-        <nav>
-            <ul>
-                <li><a href="#features">Features</a></li>
-                <li><a href="#how-it-works">How It Works</a></li>
-                <li><a href="#usage">Usage</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
         <h1>Welcome to Sarcastic Bot Documentation</h1>
     </header>
     <main>
@@ -42,5 +43,6 @@
     <footer>
         <p>&copy; 2023 YourCompany. All rights reserved.</p>
     </footer>
+    <script src="script.js"></script>
 </body>
 </html>

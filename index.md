@@ -1,48 +1,50 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Sarcastic Bot Documentation</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sarcastic Bot - Documentation</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700">
+    <link rel="stylesheet" href="styles.css"> <!-- Link to an external CSS file for better styling -->
 </head>
 <body>
-    <button id="show-nav">Show Navigation</button>
-    <nav id="side-nav">
-        <ul>
-            <li><a href="#features">Features</a></li>
-            <li><a href="#how-it-works">How It Works</a></li>
-            <li><a href="#usage">Usage</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
     <header>
-        <h1>Welcome to Sarcastic Bot Documentation</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#donation">Donation</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#features">Features</a></li>
+            </ul>
+        </nav>
     </header>
-    <main>
-        <section id="features">
-            <h2>Features</h2>
-            <p>Describe the key features of your Sarcastic Bot here.</p>
-            <!-- Add more details as needed -->
-        </section>
-        <section id="how-it-works">
-            <h2>How It Works</h2>
-            <p>Explain how your bot works and its functionality.</p>
-            <!-- Add more details as needed -->
-        </section>
-        <section id="usage">
-            <h2>Usage</h2>
-            <p>Provide instructions on how users can interact with your Sarcastic Bot.</p>
-            <!-- Add more details as needed -->
-        </section>
-        <section id="contact">
-            <h2>Contact</h2>
-            <p>If users have questions or need support, they can contact you here.</p>
-            <!-- Add contact information or a contact form as needed -->
-        </section>
-    </main>
+
+    <section id="home">
+        <div class="profile-pic">
+            <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" alt="Profile Picture">
+        </div>
+        <h1>Hello cuties ✨</h1>
+    </section>
+
+    <section id="about">
+        <!-- About content here -->
+    </section>
+
+    <section id="donation">
+        <!-- Donation content here -->
+    </section>
+
+    <section id="contact">
+        <!-- Contact content here -->
+    </section>
+
+    <section id="features">
+        <!-- Features content here -->
+    </section>
+
     <footer>
-        <p>&copy; 2023 YourCompany. All rights reserved.</p>
+        <p>&copy; Sarcastic Bot 2023-24</p>
     </footer>
-    <script src="script.js"></script>
 </body>
 </html>

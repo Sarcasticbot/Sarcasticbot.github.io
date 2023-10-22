@@ -4,7 +4,49 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sarcastic Bot - Documentation</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Link to an external CSS file for better styling -->
+    <style>
+        /* CSS for side navigation bar */
+        .sidenav {
+            height: 100%;
+            width: 250px;
+            position: fixed;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            background-color: #333;
+            overflow-x: hidden;
+            padding-top: 20px;
+        }
+
+        .sidenav a {
+            padding: 8px 8px 8px 32px;
+            text-decoration: none;
+            font-size: 20px;
+            color: #f1f1f1;
+            display: block;
+        }
+
+        .sidenav a:hover {
+            color: #ff0066;
+        }
+
+        /* CSS for dropdown container */
+        .dropdown-container {
+            display: none;
+            padding-left: 8px;
+        }
+
+        /* CSS for expanding the dropdown */
+        .dropdown-btn {
+            width: 100%;
+            padding: 12px;
+            text-align: left;
+            background-color: #333;
+            color: #f1f1f1;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
 </head>
 <body>
     <div class="sidenav">
@@ -57,6 +99,17 @@
         <p>&copy; Sarcastic Bot 2023-24</p>
     </footer>
 
-    <script src="script.js"></script> <!-- Link to an external JavaScript file for dropdown functionality -->
+    <script>
+        // JavaScript for dropdown functionality
+        var dropdownButtons = document.querySelectorAll(".dropdown-btn");
+
+        dropdownButtons.forEach(function (button) {
+            button.addEventListener("click", function () {
+                var container = this.nextElementSibling;
+                container.style.display = container.style.display === "block" ? "none" : "block";
+            });
+        });
+    </script>
 </body>
 </html>
+

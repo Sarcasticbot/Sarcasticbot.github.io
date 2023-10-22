@@ -4,47 +4,59 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sarcastic Bot - Documentation</title>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700">
     <link rel="stylesheet" href="styles.css"> <!-- Link to an external CSS file for better styling -->
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#donation">Donation</a></li>
-                <li><a href="#contact">Contact</a></li>
-                <li><a href="#features">Features</a></li>
-            </ul>
-        </nav>
-    </header>
-
-    <section id="home">
-        <div class="profile-pic">
-            <img src="https://te.legra.ph/file/90124a5be58c0f1812203.jpg" alt="Profile Picture">
+    <div class="sidenav">
+        <button class="dropdown-btn">Home</button>
+        <div class="dropdown-container">
+            <a href="#home">Introduction</a>
         </div>
-        <h1>Hello cuties ✨</h1>
-    </section>
+        <button class="dropdown-btn">About</button>
+        <div class="dropdown-container">
+            <a href="#about">Bot Details</a>
+            <a href="#usage">How to Use</a>
+        </div>
+        <button class="dropdown-btn">Donation</button>
+        <div class="dropdown-container">
+            <a href="#donation">Support Us</a>
+        </div>
+        <button class="dropdown-btn">Contact</button>
+        <div class="dropdown-container">
+            <a href="#contact">Support Channels</a>
+        </div>
+        <button class="dropdown-btn">Features</button>
+        <div class="dropdown-container">
+            <a href="#features">Bot Features</a>
+        </div>
+    </div>
 
-    <section id="about">
-        <!-- About content here -->
-    </section>
+    <div class="content">
+        <section id="home">
+            <h1>Hello cuties ✨</h1>
+        </section>
 
-    <section id="donation">
-        <!-- Donation content here -->
-    </section>
+        <section id="about">
+            <!-- About content here -->
+        </section>
 
-    <section id="contact">
-        <!-- Contact content here -->
-    </section>
+        <section id="donation">
+            <!-- Donation content here -->
+        </section>
 
-    <section id="features">
-        <!-- Features content here -->
-    </section>
+        <section id="contact">
+            <!-- Contact content here -->
+        </section>
+
+        <section id="features">
+            <!-- Features content here -->
+        </section>
+    </div>
 
     <footer>
         <p>&copy; Sarcastic Bot 2023-24</p>
     </footer>
+
+    <script src="script.js"></script> <!-- Link to an external JavaScript file for dropdown functionality -->
 </body>
 </html>

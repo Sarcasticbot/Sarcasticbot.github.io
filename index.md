@@ -4,111 +4,90 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sarcastic Bot - Documentation</title>
-    <style>
-        /* CSS for side navigation bar */
-        .sidenav {
-            height: 100%;
-            width: 250px;
-            position: fixed;
-            z-index: 1;
-            top: 0;
-            left: 0;
-            background-color: #333;
-            overflow-x: hidden;
-            padding-top: 20px;
-        }
-
-        .sidenav a {
-            padding: 8px 8px 8px 32px;
-            text-decoration: none;
-            font-size: 20px;
-            color: #f1f1f1;
-            display: block;
-        }
-
-        .sidenav a:hover {
-            color: #ff0066;
-        }
-
-        /* CSS for dropdown container */
-        .dropdown-container {
-            display: none;
-            padding-left: 8px;
-        }
-
-        /* CSS for expanding the dropdown */
-        .dropdown-btn {
-            width: 100%;
-            padding: 12px;
-            text-align: left;
-            background-color: #333;
-            color: #f1f1f1;
-            border: none;
-            cursor: pointer;
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to an external CSS file for better styling -->
 </head>
 <body>
-    <div class="sidenav">
-        <button class="dropdown-btn">Home</button>
-        <div class="dropdown-container">
-            <a href="#home">Introduction</a>
-        </div>
-        <button class="dropdown-btn">About</button>
-        <div class="dropdown-container">
-            <a href="#about">Bot Details</a>
-            <a href="#usage">How to Use</a>
-        </div>
-        <button class="dropdown-btn">Donation</button>
-        <div class="dropdown-container">
-            <a href="#donation">Support Us</a>
-        </div>
-        <button class="dropdown-btn">Contact</button>
-        <div class="dropdown-container">
-            <a href="#contact">Support Channels</a>
-        </div>
-        <button class="dropdown-btn">Features</button>
-        <div class="dropdown-container">
-            <a href="#features">Bot Features</a>
-        </div>
-    </div>
+    <header>
+        <h1>Welcome to Sarcastic Bot Documentation</h1>
+    </header>
 
-    <div class="content">
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#features">Features</a></li>
+            <li><a href="#usage">How to Use</a></li>
+            <li><a href="#donation">Donation</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
         <section id="home">
-            <h1>Hello cuties ✨</h1>
+            <h2>Home</h2>
+            Fuck off 
         </section>
 
         <section id="about">
-            <!-- About content here -->
-        </section>
+            <h2>About Sarcastic Bot</h2>
+            <Hey i am Sarcastic test bot ✨ (https://t.me/Sarcastictestbot) ⭐
 
-        <section id="donation">
-            <!-- Donation content here -->
-        </section>
+┏•❅────✧❅✦❅✧────❅•┓
+ㅤ★ Python : 3.10.12
+ㅤ★ Library : 13.15
+ㅤ★ Telethon : 1.29.3
+ㅤ★ Pyrogram : 2.0.106
+ㅤ★ Pytgcalls : 0.9.7
+┗•❅────✧❅✦❅✧────❅•┛
 
-        <section id="contact">
-            <!-- Contact content here -->
+I got started again with Ishita 🎶 (https://t.me/ishitaa11) as a music player for you :)>
         </section>
 
         <section id="features">
-            <!-- Features content here -->
+            <h2>Features</h2>
+            Hey i am Sarcastic test bot ✨ (https://t.me/Sarcastictestbot) ⭐
+
+┏•❅────✧❅✦❅✧────❅•┓
+ㅤ★ Python : 3.10.12
+ㅤ★ Library : 13.15
+ㅤ★ Telethon : 1.29.3
+ㅤ★ Pyrogram : 2.0.106
+ㅤ★ Pytgcalls : 0.9.7
+┗•❅────✧❅✦❅✧────❅•┛
+
+I got started again with Ishita 🎶 (https://t.me/ishitaa11) as a music player for you :)
         </section>
-    </div>
+
+        <section id="usage">
+            <h2>How to Use</h2>
+            <!-- Add your content here -->
+        </section>
+
+        <section id="donation">
+            <h2>Donation</h2>
+            Hey i am Sarcastic test bot ✨ (https://t.me/Sarcastictestbot) ⭐
+
+┏•❅────✧❅✦❅✧────❅•┓
+ㅤ★ Python : 3.10.12
+ㅤ★ Library : 13.15
+ㅤ★ Telethon : 1.29.3
+ㅤ★ Pyrogram : 2.0.106
+ㅤ★ Pytgcalls : 0.9.7
+┗•❅────✧❅✦❅✧────❅•┛
+
+I got started again with Ishita 🎶 (https://t.me/ishitaa11) as a music player for you :)
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <!-- Add your content here -->
+        </section>
+    </main>
 
     <footer>
         <p>&copy; Sarcastic Bot 2023-24</p>
     </footer>
 
-    <script>
-        // JavaScript for dropdown functionality
-        var dropdownButtons = document.querySelectorAll(".dropdown-btn");
-
-        dropdownButtons.forEach(function (button) {
-            button.addEventListener("click", function () {
-                var container = this.nextElementSibling;
-                container.style.display = container.style.display === "block" ? "none" : "block";
-            });
-        });
-    </script>
+    <script src="script.js"></script> <!-- Link to an external JavaScript file for animations and interactivity -->
 </body>
 </html>

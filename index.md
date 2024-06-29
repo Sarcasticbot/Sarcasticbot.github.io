@@ -83,12 +83,12 @@
     <h1>How to use me...<img height="80" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (2).gif"/></h1>
 
     <ol>
-        <li> Start <a href="https://t.me/Sarcastic_07_bot" target="_blank">Sarcastic bot</a> on Telegram</li>
+        <li> Start <a href="https://t.me/SarcasticXbot" target="_blank">Sarcastic bot</a> on Telegram</li>
         <li> Click on the "Add me to the clan" button and choose the group you want me to serve</li>
         <li> Promote me with full rights to unlock my full potential</li>
     </ol>
 
-    <a href="https://t.me/Sarcastic_07_bot?startgroup=true">
+    <a href="https://t.me/SarcasticXbot?startgroup=true">
         <img src="https://te.legra.ph/file/ccccd500da8795eea9e5b.jpg" width="500px">
     </a>
 
@@ -103,7 +103,7 @@
         <li> Press on Administrator</li>
         <li> Press Add Administrator</li>
         <li> Press the Magnifying Glass</li>
-        <li> Search for @Sarcastic_07_bot</li>
+        <li> Search for @SarcasticXbot</li>
         <li> Confirm</li>
     </ol>
 
@@ -153,13 +153,13 @@
     <p>Your support can help us and Sarcastic work effectively on Telegram. 🙏</p>
 
     <ul>
-        <li>Via UPI id > verma.vishesh@paytm</li>
+        <li>Via UPI id > Visheshverma07@ybl </li>
     </ul>
     <ul>
 
         <!-- QR Code Dropdown Section -->
     <div id="qrCodeSection" style="display: none;">
-        <img src="https://te.legra.ph/file/fe3ebd9fb08280d8830d2.jpg" alt="QR Code" width="300">
+        <img src="https://te.legra.ph/file/0c8a46e55fd20896d9090.jpg" alt="QR Code" width="300">
         <button id="hideQRCode" onclick="hideQRCode()">↑ Hide QR Code</button>
     </div>
 
